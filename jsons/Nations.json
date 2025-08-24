@@ -1,38 +1,35 @@
 [
 	{
-		"name": "Aliens",
-		"leaderName": "Zyxxyz",
-		"adjective": ["alien"],
-		"startBias": ["Snow"],
+		"name": "Eastern Roman Empire",
+		"leaderName": "hahahaking999",
+		"adjective": ["The king"],
+		"startBias": ["desert"],
 		"preferredVictoryType": "Scientific",
 		
-		"startIntroPart1": "We come in peace!",
-		"startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature. Set Phasers to Obliterate!!",
+		"startIntroPart1": "asdf",
+		"startIntroPart2": "asdf",
 		
-		"declaringWar": "Resistance is futile! Prepare to be assimilated!",
-		"attacked": "You want to play? Very funny!",
-		"defeated": "How is it possible that those Apes hurt us? The galactic senate will take care of them.",
-		"introduction": "As superior galactic entities, you are not worthy of our attention.",
+		"declaringWar": "얘! 죽으렴~",
+		"attacked": "얘! 장난하니~",
+		"defeated": "아이고난!!!!!!",
+		"introduction": "반갑수달",
 		
-		"neutralHello": "How are you doing?",
-		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
-		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
-		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+		"neutralHello": "반갑소이닿",
+		"neutralLetsHearIt": "그림 그릴게요~",
+		"neutralNo": "얘는! 되겠니!!",
+		"neutralYes": "오옹~ 좋다좋다",
 
-		"hateHello": "What do you want now?",
-		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
-		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
-		"hateYes": ["That is fine.","That is good enough.","Very well..."],
+		"hateHello": "쓰읍 반갑소이닿",
+		"hateLetsHearIt": "얘, 작작하렴~",
+		"hateNo": "죽어버리렴~",
+		"hateYes": "고려해보지",
 		
-		"afterPeace": "Very well, all that fighting was getting boring anyway.",
-		"tradeRequest": "We bestow you the honor of this trade offer.",
+		"afterPeace": "홍홍 좋소이닿",
+		"tradeRequest": "얘 그림그리렴!!",
 
 		"outerColor": [16,16,16],
 		"innerColor": [255,200,200],
 		"unique": "MANIFEST_DESTINY",
-		"cities": ["The Hive","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
-			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
-			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
-			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
+		"cities": ["콘스탄티노폴리스","파타타폴리스","크리오폴리스","아드리아노폴리스","제3시티","신모비딕폴리스","테오도시아나","모비딕 3시티","모비딕 4시티","평양직할시","메갈로폴리스","에디르네","모낙호부르크","아몬드폴리스","엣지","노이콘스탄티노플","모비딕 5시티","모비딕 6시티","니케아노폴리스"]
 	}
 ]
