@@ -19,6 +19,9 @@
 		"unitType": "Civilian",
 		"uniqueTo": "Eastern Roman Empire",
 		"replaces": "Worker",
+		"civilopediaText": [
+			{"text": "그는 매우 게으르고 충성심이 하나도 없는 노동자이지만, 건물 건설 하나만큼은 기깔난다."}
+		],
 		"movement": 3,
 		"promotions": ["Ignore terrain cost"],
 		"uniques": [
