@@ -13,5 +13,13 @@
 		"requiredResource": "Uranium",
 		"promotions": ["Logistics","Accuracy I"],
 		"attackSound": "phasers"
-	}
-]
+	},
+	{
+		"name": "모비딕",
+		"unitType": "Civilian",
+		"uniqueTo": "Eastern Roman Empire",
+		"replaces": "Worker",
+		"movement": 3,
+		"promotions": ["Ignore terrain cost"],
+		"uniques": ["Can build [Land] improvements on tiles", "Automation is a primary action"],
+		"cost": 50,
