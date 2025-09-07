@@ -22,7 +22,8 @@
 		"movement": 3,
 		"promotions": ["Ignore terrain cost"],
 		"uniques": [
-			"Can build [Land] improvements on tiles", "Automation is a primary action",
+			"Can build [Land] improvements on tiles",
+			"Automation is a primary action",
 			"Can build [All] improvements at a [-20]% rate"
 		],
 		"cost": 27,
