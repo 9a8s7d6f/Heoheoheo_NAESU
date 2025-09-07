@@ -3,7 +3,8 @@
 		"name": "아야 소피아",
 		"uniqueTo": "Eastern Roman Empire",
 		"cost": 1453,
-		{"text": "어쩌라고."}
+		"civilopediaText": [
+			{"text": "어쩌라고."}
 		],
 		"happiness": 12,
 		"culture": 12,
