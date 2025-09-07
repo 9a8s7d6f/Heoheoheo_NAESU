@@ -3,11 +3,15 @@
 		"name": "아야 소피아",
 		"uniqueTo": "Eastern Roman Empire",
 		"cost": 1453,
-		"happiness": 12,
-		"culture": 12,
-		"science": 12,
-		"requiredTech": "Horseback Riding",
-		"uniques": ["Limited to [1] per Civilization"]
+		"happiness": 5,
+		"culture": 6,
+		"science": 6,
+		"specialistSlots": {"Artist": 2},
+		"requiredTech": "Construction",
+		"uniques": ["Limited to [1] per Civilization"],
+		"civilopediaText": [
+			{"text": "섬록암으로 만들어진 동로마제국의 랜드마크!"}
+		]
 	},
 	{
 		"name": "창고",
@@ -39,7 +43,10 @@
 		"cost": 40,
 		"hurryCostModifier": 40,
 		"maintenance": 1,
-		"uniques": ["Destroyed when the city is captured"]
+		"uniques": ["Destroyed when the city is captured"],
+		"civilopediaText": [
+			{"text": "블록 6개로도 만들 수 있음"}
+		]
 	},
 	{
         "name": "모비딕 동상",
@@ -58,10 +65,13 @@
 	{
 		"name": "알제사무소",
 		"uniqueTo": "Eastern Roman Empire",
-		"cost": 15,
+		"cost": 10,
 		"production": 1,
 		"requiredTech": "Agriculture",
-		"uniques": ["[+4 Production, +2 Food] [in this city] <in cities with less than [3] [Population]>"]
+		"uniques": ["[+4 Production, +2 Food] [in this city] <in cities with less than [4] [Population]>"],
+		"civilopediaText": [
+			{"text": "초반에는 쓸데있지만 후반에는 쓸데없음"}
+		]
 	},
 	{
 		"name": "감자수경재배농장",
@@ -76,10 +86,23 @@
 		"uniques": [
 			"[20]% Food is carried over after population increases [in this city]",
 			"[+1 Food] from [Farm] tiles [in this city]"
-			]
+			],
+		"civilopediaText": [
+			{"text": "3층짜리 감자농장"}
+		]
 	},
-	[
+	{
 		"name": "엔더맨농장",
 		"uniqueTo": "Eastern Roman Empire",
-		"replaces": "병영"
+		"replaces": "Armory",
+		"cost": 160,
+		"hurryCostModifier": 25,
+		"maintenance": 1,
+		"requiredBuilding": "Barracks",
+		"uniques": ["New [Military] units start with [30] XP [in this city]", "Destroyed when the city is captured"],
+		"requiredTech": "Steel",
+		"civilopediaText": [
+			{"text": "30레벨 될 때까지 나올생각 마시오"}
+		]
+	}
 ]
