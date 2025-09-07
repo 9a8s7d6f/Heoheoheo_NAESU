@@ -3,9 +3,6 @@
 		"name": "아야 소피아",
 		"uniqueTo": "Eastern Roman Empire",
 		"cost": 1453,
-		"civilopediaText": [
-			{"text": "모비딕이한땀한땀정성스레만든목재창고를불태운모낙호가다시한땀한땀정성스레보수한목재창고@@@@@@@@@"}
-		],
 		"happiness": 12,
 		"culture": 12,
 		"science": 12,
@@ -16,6 +13,9 @@
 		"name": "창고",
 		"replaces": "Granary",
 		"uniqueTo": "Eastern Roman Empire",
+		"civilopediaText": [
+			{"text": "모비딕이한땀한땀정성스레만든목재창고를불태운모낙호가다시한땀한땀정성스레보수한목재창고@@@@@@@@@"}
+		],
 		"cost": 60,
 		"food": 2,
 		"production": 2,
