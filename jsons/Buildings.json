@@ -26,7 +26,5 @@
 			"[+2 Production] from [Stone] tiles [in this city]",
 			"[+1 Production] from [Mine] tiles [in this city]",
 		"requiredTech": "Pottery",
-		"uniques": ["40% of food is carried over after a new citizen is born"],
-		"requiredTech": "Engineering"
 	}
 ]
