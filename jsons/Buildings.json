@@ -6,9 +6,8 @@
 		"happiness": 12,
 		"culture": 12,
 		"science": 12,
-		"Limited to [1] per Civilization",
 		"requiredTech": "Horseback Riding"
-
+		"uniques": ["Limited to [1] per Civilization"]
 	},
 	{
 		"name": "창고",
@@ -20,6 +19,7 @@
 		"maintenance": 1,
 		"hurryCostModifier": 25,
 		"uniqueName": "모비딕이한땀한땀정싱스레만든나무창고",
+		"requiredTech": "Pottery",
 		"uniques": [
 			"[+1 Food] from [Deer] tiles [in this city]",
 			"[+1 Food] from [Bananas] tiles [in this city]",
@@ -27,7 +27,6 @@
 			"[+2 Production] from [Stone] tiles [in this city]",
 			"[+1 Production] from [Mine] tiles [in this city]",
 		]
-		"requiredTech": "Pottery",
 	},
 	{
 		"name": "십자가",
@@ -77,5 +76,5 @@
 			"[20]% Food is carried over after population increases [in this city]",
 			"[+1 Food] from [Farm] tiles [in this city]"
 			]
-	},
+	}
 ]
