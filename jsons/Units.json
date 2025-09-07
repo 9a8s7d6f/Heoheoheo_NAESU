@@ -33,7 +33,7 @@
 	},
 	{
 		"name": "모낙호",
-		"unittype": "Sword",
+		"unitType": "Scout",
 		"uniqueTo": "Eastern Roman Empire",
 		"civilopediaText": [
 			{"text": "모낙호는 언제나 탐험을 하고싶어한다. 그치만 몸이 물몸이여서 어딜가든 뒤져버린다."}
