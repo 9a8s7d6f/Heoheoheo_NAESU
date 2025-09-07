@@ -6,7 +6,7 @@
 		"happiness": 12,
 		"culture": 12,
 		"science": 12,
-		"requiredTech": "Horseback Riding"
+		"requiredTech": "Horseback Riding",
 		"uniques": ["Limited to [1] per Civilization"]
 	},
 	{
