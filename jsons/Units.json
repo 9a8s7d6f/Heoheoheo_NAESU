@@ -30,5 +30,22 @@
 			"Can build [All] improvements at a [+30]% rate"
 		],
 		"cost": 27
+	},
+	{
+		"name': "모낙호",
+		"unittype": "Scout",
+		"uniqueTo": "Eastern Roman Empire",
+		"civilopediaText": [
+			{"text": "모낙호는 언제나 탐험을 하고싶어한다. 그치만 몸이 물몸이여서 어딜가든 뒤져버린다."}
+		],
+		"movement": 5,
+		"strength": 20,
+		"range": 2,
+		"rangedStrength": 10,
+		"cost": 60,
+		"requiredTech": "The Wheel",
+		"uniques": ["Can move after attacking","No defensive terrain bonus", "Founds a new city"],
+		"promotions": ["Ignore terrain cost","Medic II","March","Blitz"],
+		"attackSound": "nonmetalhit"
 	}
 ]
