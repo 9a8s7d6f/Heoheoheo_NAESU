@@ -6,19 +6,26 @@
 		"happiness": 12,
 		"culture": 12,
 		"science": 12,
-		"maintenance": 96,
-		"requiredBuildingInAllCities": "Colosseum",
 		"Limited to [1] per Civilization",
 		"requiredTech": "Horseback Riding"
 
 	},
 	{
-		"name": "Breeders",
-		"replaces": "Aqueduct",
-		"uniqueTo": "Aliens",
-		"cost": 80,
-		"hurryCostModifier": 160,
-		"happiness": 2,
+		"name": "창고",
+		"replaces": "Granary",
+		"uniqueTo": "Eastern Roman Empire",
+		"cost": 60,
+		"food": 2,
+		"production": 2,
+		"maintenance": 1,
+		"hurryCostModifier": 25,
+		"uniqueName": "모비딕이한땀한땀정싱스레만든나무창고",
+		"uniques": ["[+1 Food] from [Deer] tiles [in this city]",
+			"[+1 Food] from [Bananas] tiles [in this city]",
+			"[+2 Food] from [Wheat] tiles [in this city]"],
+			"[+2 Production] from [Stone] tiles [in this city]"],
+			"[+1 Production] from [Mine] tiles [in this city]"],
+		"requiredTech": "Pottery"
 		"uniques": ["40% of food is carried over after a new citizen is born"],
 		"requiredTech": "Engineering"
 	}
