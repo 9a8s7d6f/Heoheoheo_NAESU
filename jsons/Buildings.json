@@ -26,7 +26,7 @@
 			"[+2 Food] from [Wheat] tiles [in this city]",
 			"[+2 Production] from [Stone] tiles [in this city]",
 			"[+1 Production] from [Mine] tiles [in this city]",
-		]
+			]
 	},
 	{
 		"name": "십자가",
@@ -51,7 +51,7 @@
             "[+1 Production] from [Mine] tiles [in this city]",
             "[+2 Science] from [Marble] tiles [in this city]",
             "[1] Happiness from each type of luxury resource"
-        ]
+        	]
 	},
 	{
 		"name": "알제사무소",
