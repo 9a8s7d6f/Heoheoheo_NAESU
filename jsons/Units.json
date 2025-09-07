@@ -45,7 +45,7 @@
 		"cost": 60,
 		"requiredTech": "The Wheel",
 		"uniques": ["Can move after attacking","No defensive terrain bonus", "Founds a new city"],
-		"promotions": ["Ignore terrain cost","Medic II","March","Blitz"],
+		"promotions": ["Ignore terrain cost","Medic II","Medic I","March","Blitz"],
 		"attackSound": "nonmetalhit"
 	}
 ]
