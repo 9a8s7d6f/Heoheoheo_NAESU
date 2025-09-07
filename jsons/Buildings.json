@@ -39,14 +39,13 @@
 		"hurryCostModifier": 40,
 		"maintenance": 1,
 		"uniques": ["Destroyed when the city is captured"]
-		"requiredTech": "Pottery",
 	},
 	{
         "name": "모비딕 동상",
         "uniqueTo": "Eastern Roman Empire",
         "cost": 340,
         "culture": 5,
-        "production":2,
+        "production": 2,
         "science": 1,
         "requiredTech": "Bronze Working",
         "uniques": [
@@ -54,5 +53,29 @@
             "[+2 Science] from [Marble] tiles [in this city]",
             "[1] Happiness from each type of luxury resource"
         ]
-	}
+	},
+	{
+		"name": "알제사무소",
+		"uniqueTo": "Eastern Roman Empire",
+		"cost": 15,
+		"production": 1,
+		"requiredTech": "Agriculture",
+		"uniques": ["[+4 Production, +2 Food] [in this city] <in cities with less than [3] [Population]>"]
+	},
+	{
+		"name": "감자수경재배농장",
+		"replaces": "Monument",
+		"uniqueTo": "Eastern Roman Empire",
+		"Food": 2,
+		"Gold": 1,
+		"percentStatBonus": {"food": 15},
+		"cost": 80,
+		"hurryCostModifier": 10,
+		"maintenance": 2,
+		"requiredTech": "Engineering",
+		"uniques": [
+			"[20]% Food is carried over after population increases [in this city]",
+			"[+1 Food] from [Farm] tiles [in this city]"
+			]
+	},
 ]
