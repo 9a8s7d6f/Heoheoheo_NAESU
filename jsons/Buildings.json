@@ -40,5 +40,19 @@
 		"maintenance": 1,
 		"uniques": ["Destroyed when the city is captured"]
 		"requiredTech": "Pottery",
+	},
+	{
+        "name": "모비딕 동상",
+        "uniqueTo": "Eastern Roman Empire",
+        "cost": 340,
+        "culture": 5,
+        "production":2,
+        "science": 1,
+        "requiredTech": "Bronze Working",
+        "uniques": [
+            "[+1 Production] from [Mine] tiles [in this city]",
+            "[+2 Science] from [Marble] tiles [in this city]",
+            "[1] Happiness from each type of luxury resource"
+        ]
 	}
 ]
