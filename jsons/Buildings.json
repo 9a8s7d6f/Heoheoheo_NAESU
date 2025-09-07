@@ -77,5 +77,9 @@
 			"[20]% Food is carried over after population increases [in this city]",
 			"[+1 Food] from [Farm] tiles [in this city]"
 			]
-	}
+	},
+	[
+		"name": "엔더맨농장",
+		"uniqueTo": "Eastern Roman Empire",
+		"replaces": "병영"
 ]
