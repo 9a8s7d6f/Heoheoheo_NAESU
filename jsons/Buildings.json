@@ -63,7 +63,6 @@
 	},
 	{
 		"name": "감자수경재배농장",
-		"replaces": "Monument",
 		"uniqueTo": "Eastern Roman Empire",
 		"Food": 2,
 		"Gold": 1,
