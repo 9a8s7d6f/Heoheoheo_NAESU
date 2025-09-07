@@ -18,7 +18,6 @@
 		"production": 2,
 		"maintenance": 1,
 		"hurryCostModifier": 25,
-		"uniqueName": "모비딕이한땀한땀정싱스레만든나무창고",
 		"requiredTech": "Pottery",
 		"uniques": [
 			"[+1 Food] from [Deer] tiles [in this city]",
