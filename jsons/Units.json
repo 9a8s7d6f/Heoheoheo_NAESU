@@ -27,8 +27,7 @@
 		"uniques": [
 			"Can build [Land] improvements on tiles",
 			"Automation is a primary action",
-			"Can build [All] improvements at a [+30]% rate",
-			"Can build [All] improvements at a [-30]% rate <when below [-5] Happiness>"
+			"Can build [All] improvements at a [+30]% rate <when above [-5] Happiness>"
 		],
 		"cost": 27
 	},
@@ -46,7 +45,6 @@
 		"cost": 60,
 		"requiredTech": "The Wheel",
 		"uniques": ["Can move after attacking","No defensive terrain bonus", "Founds a new city"],
-		"promotions": ["Ignore terrain cost","Medic II","Medic I","March","Blitz"],
 		"attackSound": "nonmetalhit"
 	},
 	{
