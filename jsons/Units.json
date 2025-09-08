@@ -27,7 +27,8 @@
 		"uniques": [
 			"Can build [Land] improvements on tiles",
 			"Automation is a primary action",
-			"Can build [All] improvements at a [+30]% rate"
+			"Can build [All] improvements at a [+30]% rate",
+			"Can build [All] improvements at a [-30]% rate <when below [-5] Happiness>"
 		],
 		"cost": 27
 	},
@@ -47,5 +48,65 @@
 		"uniques": ["Can move after attacking","No defensive terrain bonus", "Founds a new city"],
 		"promotions": ["Ignore terrain cost","Medic II","Medic I","March","Blitz"],
 		"attackSound": "nonmetalhit"
+	},
+	{
+		"name": "Wooden Sword Warrior",
+		"unitType": "Sword",
+		"uniqueTo": "Eastern Roman Empire",
+		"replaces": "Warrior",
+		"movement": 2,
+		"strength": 5,
+		"cost": 20,
+		"obsoleteTech": "Mining",
+		"upgradesTo": "Stone Sword Warrior",
+		"uniques": ["May upgrade to [Stone Sword Warrior] through ruins-like effects"],
+		"attackSound": "nonmetalhit",
+        "civilopediaText": [
+			{"text": "미약한 무장."}
+		]
+	},
+	{
+		"name": "Stone Sword Warrior",
+		"unitType": "Sword",
+		"uniqueTo": "Eastern Roman Empire",
+		"replaces": "Warrior",
+		"movement": 2,
+		"strength": 9,
+		"cost": 45,
+		"obsoleteTech": "Iron Working",
+		"upgradesTo": "Iron Swordsman",
+		"uniques": ["May upgrade to [Iron Swordsman] through ruins-like effects"],
+		"attackSound": "nonmetalhit",
+        "civilopediaText": [
+			{"text": "기초적인 무장."}
+		]
+	},
+	{
+		"name": "Spearman",
+		"unitType": "Sword",
+		"movement": 2,
+		"strength": 11,
+		"cost": 56,
+		"requiredTech": "Bronze Working",
+		"obsoleteTech": "Civil Service",
+		"upgradesTo": "Pikeman",
+		"uniques": ["[+50]% Strength <vs [Mounted] units>"],
+		"attackSound": "metalhit"
+	},
+	{
+		"name": "Iron Swordsman",
+		"unitType": "Sword",
+		"uniqueTo": "Eastern Roman Empire",
+		"replaces": "Swordsman",
+		"movement": 2,
+		"strength": 14,
+		"cost": 80,
+		"requiredTech": "Iron Working",
+		"upgradesTo": "Longswordsman",
+		"hurryCostModifier": 20,
+		"attackSound": "metalhit",
+		"civilopediaText": [
+			{"text": "일반적인 무장."}
+		]
 	}
 ]
