@@ -2,7 +2,7 @@
 	{
 		"name": "Eastern Roman Empire",
 		"leaderName": "hahahaking999",
-		"adjective": ["The king"],
+		"adjective": ["Eastern Roman"],
 		"startBias": ["Tundra"],
 		"preferredVictoryType": "Domination",
 		
@@ -42,15 +42,15 @@
 			],
 		"cities": ["콘스탄티노폴리스","파타타폴리스","크리오폴리스","아드리아노폴리스","제3시티","평양직할시","메갈로폴리스","에디르네","엣지","노이콘스탄티노플","니케아노폴리스"],
 		"civilopediaText": [
-			{ "text": "Ancient ruins provide a one-time random bonus when explored" },
+			{ "text": "시빌로피디아 맨 위" },
     		{ "separator": true },
     		{
-        		"text": "This line is red and links to the Scout including icons",
+        		"text": "붉고 링크된 정찰병 유닛(Scout) 이미지 띄우게 하는 글자",
         		"link": "Unit/Scout",
         		"color": "red"
     		},
     		{
-        		"text": "A big fat header sporting a golden star",
+        		"text": "크고 아름다운 황금색 별",
         		"header": 1,
         		"starred": true,
         		"color": "#ffeb7f"
@@ -60,10 +60,10 @@
 	
 	{
 		"name": "테오도시아나 자유국",
-		"leaderName": "모낙호",
+		"leaderName": "Monakho",
 		"adjective": ["jeni어쩌구"],
 		"startBias": ["Desert"],
-		"preferredVictoryType": "Domination",
+		"preferredVictoryType": "Diplomatic",
 		
 		"startIntroPart1": "asdf",
 		"startIntroPart2": "asdf",
