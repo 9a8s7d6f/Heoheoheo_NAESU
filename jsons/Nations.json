@@ -57,8 +57,6 @@
     		}
 		]
 	},
-
-// "[+1453]% Production when constructing [Aya Sofya] wonders [in capital]", "[+529]% Production when constructing [Aya Sofya] wonders [in capital] <after discovering [Masonry]>", "[+100]% Production when constructing [Aya Sofya] wonders [in capital] <after discovering [Construction]>", "[+100]% Production when constructing [Aya Sofya] wonders [in capital] <after discovering [Engineering]>", "[+100]% Production when constructing [Aya Sofya] wonders [in capital] <after discovering [Philosophy]>",
 	
 	{
 		"name": "테오도시아나 자유국",
@@ -75,7 +73,7 @@
 		"defeated": "아이고난!!!!!!",
 		"introduction": "반갑수달",
 		
-		"neutralHello": "반갑소이닿",							
+		"neutralHello": "반갑소이닿",					
 		"neutralLetsHearIt": "그림 그릴게요~",
 		"neutralNo": "얘는! 되겠니!!",
 		"neutralYes": "오옹~ 좋다좋다",
