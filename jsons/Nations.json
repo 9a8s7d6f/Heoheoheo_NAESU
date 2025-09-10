@@ -32,11 +32,6 @@
 		"uniqueName": "birthplace of civilization",
 		"unique": [
 			"[+1 Gold, +1 Production] [in all cities]",
-			"[+1453]% Production when constructing [Aya Sofya] wonders [in capital]",
-			"[+529]% Production when constructing [Aya Sofya] wonders [in capital] <after discovering [Masonry]>",
-			"[+100]% Production when constructing [Aya Sofya] wonders [in capital] <after discovering [Construction]>",
-			"[+100]% Production when constructing [Aya Sofya] wonders [in capital] <after discovering [Engineering]>",
-			"[+100]% Production when constructing [Aya Sofya] wonders [in capital] <after discovering [Philosophy]>",
 			"[+1 Gold, +1 Production] [in this city] <in cities connected to the capital>",
 			"[+25]% Unhappiness from [Population] [in all cities]"
 			],
