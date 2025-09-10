@@ -41,9 +41,7 @@
 		],
 		"movement": 5,
 		"strength": 20,
-		"range": 2,
-		"rangedStrength": 10,
-		"cost": 60,
+		"cost": 80,
 		"requiredTech": "The Wheel",
 		"uniques": ["Can move after attacking","No defensive terrain bonus", "Founds a new city"],
 		"attackSound": "nonmetalhit"
