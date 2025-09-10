@@ -42,9 +42,9 @@
 		],
 		"movement": 5,
 		"strength": 20,
-		"cost": 80,
+		"cost": 120,
 		"requiredTech": "The Wheel",
-		"uniques": ["Can move after attacking","No defensive terrain bonus", "Founds a new city"],
+		"uniques": ["Can move after attacking", "No defensive terrain bonus", "Founds a new city <by consuming this unit>", "Requires at least [3] population"],
 		"attackSound": "nonmetalhit"
 	},
 	{
