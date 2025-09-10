@@ -37,15 +37,15 @@
 			],
 		"cities": ["콘스탄티노폴리스","파타타폴리스","크리오폴리스","아드리아노폴리스","제3시티","평양직할시","메갈로폴리스","에디르네","엣지","노이콘스탄티노플","니케아노폴리스"],
 		"civilopediaText": [
-			{ "text": "시빌로피디아 맨 위" },
+			{ "text": "abcde" },
     		{ "separator": true },
     		{
-        		"text": "붉고 링크된 정찰병 유닛(Scout) 이미지 띄우게 하는 글자",
+        		"text": "fghijk",
         		"link": "Unit/Scout",
         		"color": "red"
     		},
     		{
-        		"text": "크고 아름다운 황금색 별",
+        		"text": "lmnopqrs",
         		"header": 1,
         		"starred": true,
         		"color": "#ffeb7f"
