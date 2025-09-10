@@ -9,23 +9,23 @@
 		"startIntroPart1": "asdf",
 		"startIntroPart2": "asdf",
 		
-		"declaringWar": "얘! 죽으렴~",
-		"attacked": "얘! 장난하니~",
-		"defeated": "아이고난!!!!!!",
-		"introduction": "반갑수달",
+		"declaringWar": "Yae! Juk'euryeom~",
+		"attacked": "Yae! Jangnanhani~",
+		"defeated": "Aigonan!!!!!!",
+		"introduction": "Bangapsudal",
 		
-		"neutralHello": "반갑소이닿",
-		"neutralLetsHearIt": "그림 그릴게요~",
-		"neutralNo": "얘는! 되겠니!!",
-		"neutralYes": "오옹~ 좋다좋다",
+		"neutralHello": "Bangapsoidat",
+		"neutralLetsHearIt": "Kuerim kuerilgeyo~",
+		"neutralNo": "Yaenuen! doegekni!!",
+		"neutralYes": "Oong~ jotajota",
 		
-		"hateHello": "쓰읍 반갑소이닿",
-		"hateLetsHearIt": "얘, 작작하렴~",
-		"hateNo": "죽어버리렴~",
-		"hateYes": "고려해보지",
+		"hateHello": "Ssuep Bangapsoidat",
+		"hateLetsHearIt": "Yae, jakjakharyeom~",
+		"hateNo": "juk'eobeoriryeom~",
+		"hateYes": "Koryeohaeboji",
 		
-		"afterPeace": "홍홍 좋소이닿",
-		"tradeRequest": "얘 그림그리렴!!",
+		"afterPeace": "Honghong jossoidat",
+		"tradeRequest": "Yae keurimkeuriryeom!!",
 
 		"outerColor": [255,255,255],
 		"innerColor": [225, 215, 0],
@@ -35,7 +35,7 @@
 			"[+1 Gold, +1 Production] [in this city] <in cities connected to the capital>",
 			"[+25]% Unhappiness from [Population] [in all cities]"
 			],
-		"cities": ["콘스탄티노폴리스","파타타폴리스","크리오폴리스","아드리아노폴리스","제3시티","평양직할시","메갈로폴리스","에디르네","엣지","노이콘스탄티노플","니케아노폴리스"],
+		"cities": ["Constantinopolis","Patatapolis","Kriopolis","Adrianopolis","Third City","Pyeongyang","Megalopolis","Edirne","The Edge","Neu-Constantinopolis","Nicaeanopolis"],
 		"civilopediaText": [
 			{ "text": "abcde" },
     		{ "separator": true },
