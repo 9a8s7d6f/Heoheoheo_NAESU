@@ -72,6 +72,7 @@
 		"movement": 2,
 		"strength": 9,
 		"cost": 45,
+		"requiredTech": "Mining",
 		"obsoleteTech": "Iron Working",
 		"upgradesTo": "Iron Swordsman",
 		"uniques": ["May upgrade to [Iron Swordsman] through ruins-like effects"],
