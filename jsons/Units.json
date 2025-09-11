@@ -15,7 +15,7 @@
 		"attackSound": "phasers"
 	},
 	{
-		"name": "모비딕",
+		"name": "Mo bidick",
 		"unitType": "Civilian",
 		"uniqueTo": "Eastern Roman Empire",
 		"replaces": "Worker",
@@ -33,7 +33,7 @@
 		"cost": 27
 	},
 	{
-		"name": "모낙호",
+		"name": "Monakho",
 		"unitType": "Scout",
 		"uniqueTo": "Eastern Roman Empire",
 		"replaces": "Settler",
