@@ -68,23 +68,23 @@
 		"startIntroPart1": "asdf",
 		"startIntroPart2": "asdf",
 		
-		"declaringWar": "얘! 죽으렴~",
-		"attacked": "얘! 장난하니~",
-		"defeated": "아이고난!!!!!!",
-		"introduction": "반갑수달",
+		"declaringWar": "Yae! Jukeuryeom~",
+		"attacked": "Yae! Jangnanhani~",
+		"defeated": "Aigonan!!!!!!",
+		"introduction": "Bangapsudal",
 		
-		"neutralHello": "반갑소이닿",					
-		"neutralLetsHearIt": "그림 그릴게요~",
-		"neutralNo": "얘는! 되겠니!!",
-		"neutralYes": "오옹~ 좋다좋다",
+		"neutralHello": "Bangapsoidat",
+		"neutralLetsHearIt": "Kuerim kuerilgeyo~",
+		"neutralNo": "Yaenuen! doegekni!!",
+		"neutralYes": "Oong~ jotajota",
 		
-		"hateHello": "쓰읍 반갑소이닿",
-		"hateLetsHearIt": "얘, 작작하렴~",
-		"hateNo": "죽어버리렴~",
-		"hateYes": "고려해보지",
+		"hateHello": "Ssuep Bangapsoidat",
+		"hateLetsHearIt": "Yae, jakjakharyeom~",
+		"hateNo": "jukeobeoriryeom~",
+		"hateYes": "Koryeohaeboji",
 		
-		"afterPeace": "홍홍 좋소이닿",
-		"tradeRequest": "얘 그림그리렴!!",
+		"afterPeace": "Honghong jossoidat",
+		"tradeRequest": "Yae keurimkeuriryeom!!",
 		// 전략 자원 획득량 +50%, 현재 보유중인 골드 300마다 행복도+1
 		"outerColor": [16,16,16],
 		"innerColor": [255,200,200],
@@ -94,6 +94,6 @@
 			"[+2 Gold] [in all cities] <after discovering [Mining]>",
 			"[+3 Gold, +2 Production] [in all cities] <after discovering [Machinery]>"
 		],
-		"cities": ["테오도시아나","말리","모낙호부르크"]
+		"cities": ["Theodosiana","Mali","Monakhoburg"]
 	}
 ]
