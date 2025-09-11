@@ -85,7 +85,6 @@
 		
 		"afterPeace": "Honghong jossoidat",
 		"tradeRequest": "Yae keurimkeuriryeom!!",
-		// 전략 자원 획득량 +50%, 현재 보유중인 골드 300마다 행복도+1
 		"outerColor": [16,16,16],
 		"innerColor": [255,200,200],
 		"uniqueName": "accumulation of wealth",
