@@ -14,7 +14,7 @@
 		]
 	},
 	{
-		"name": "창고",
+		"name": "Storehouse",
 		"replaces": "Granary",
 		"uniqueTo": "Eastern Roman Empire",
 		"civilopediaText": [
@@ -35,7 +35,7 @@
 		]
 	},
 	{
-		"name": "십자가",
+		"name": "Cross",
 		"replaces": "Monument",
 		"uniqueTo": "Eastern Roman Empire",
 		"culture": 3,
@@ -49,7 +49,7 @@
 		]
 	},
 	{
-        "name": "모비딕 동상",
+        "name": "Mobidick_statue",
         "uniqueTo": "Eastern Roman Empire",
         "cost": 60,
         "culture": 5,
@@ -63,7 +63,7 @@
 		]
 	},
 	{
-		"name": "알제사무소",
+		"name": "Alje office",
 		"uniqueTo": "Eastern Roman Empire",
 		"cost": 10,
 		"production": 1,
@@ -74,7 +74,7 @@
 		]
 	},
 	{
-		"name": "감자수경재배농장",
+		"name": "Potato hydroponics plantation",
 		"uniqueTo": "Eastern Roman Empire",
 		"Food": 2,
 		"Gold": 1,
@@ -92,7 +92,7 @@
 		]
 	},
 	{
-		"name": "엔더맨농장",
+		"name": "Enderman farm",
 		"uniqueTo": "Eastern Roman Empire",
 		"replaces": "Armory",
 		"cost": 160,
