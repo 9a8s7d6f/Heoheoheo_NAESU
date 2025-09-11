@@ -41,6 +41,7 @@
 			"[-15]% [Happiness]"
 		],
 		"cities": ["Constantinopolis","Patatapolis","Kriopolis","Adrianopolis","Third City","Pyeongyang","Megalopolis","Edirne","The Edge","Neu-Constantinopolis","Nicaeanopolis"],
+		"spyNames": ["Kaelen","Rivor","Seltra","Daven","Lyric","Corven","Veyra","Talin","Marvek","Zyra","Orin","Kyler","Sereth","Jorin","Velric","Alaric","Nyven","Cairos","Tavren","Erynd","Liora","Soren","Draven","Korra","Rilian","Veylin","Darius","Zaren","Myla","Thalen"],
 		"civilopediaText": [
 			{ "text": "abcde" },
     		{ "separator": true },
@@ -93,7 +94,8 @@
 			"[+2 Gold] [in all cities] <after discovering [Mining]>",
 			"[+3 Gold, +2 Production] [in all cities] <after discovering [Machinery]>"
 		],
-		"cities": ["Theodosiana","Mali","Monakhoburg"]
+		"cities": ["Theodosiana","Mali","Monakhoburg"],
+		"spyNames": ["Kaelen","Rivor","Seltra","Daven","Lyric","Corven","Veyra","Talin","Marvek","Zyra","Orin","Kyler","Sereth","Jorin","Velric","Alaric","Nyven","Cairos","Tavren","Erynd","Liora","Soren","Draven","Korra","Rilian","Veylin","Darius","Zaren","Myla","Thalen"]
 	},
 
 	{
@@ -142,6 +144,8 @@
 			"[15] Unit Supply",
 			"[+25]% Strength",
 			"[+25]% XP gained from combat"
-		]
+		],
+		"cities": ["Eldoria","Varnhelm","Solvessa","Drakenshire","Frosthaven","Marivale","Caelmoor","Lumeris","Thornwick","Hallowrest","Calithra","Brackenholt","Ventora","Ravenford","Ardessa","Pelivon","Cindara","Grimvale","Thalvora","Mirenque","Zephralis","Orvanel","Quindralith","Terynthal","Alveris","Dravemont","Silvaron","Eryndor","Korrathal","Virellia"],
+		"spyNames": ["Kaelen","Rivor","Seltra","Daven","Lyric","Corven","Veyra","Talin","Marvek","Zyra","Orin","Kyler","Sereth","Jorin","Velric","Alaric","Nyven","Cairos","Tavren","Erynd","Liora","Soren","Draven","Korra","Rilian","Veylin","Darius","Zaren","Myla","Thalen"]
 	}
 ]
