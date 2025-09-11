@@ -94,5 +94,54 @@
 			"[+3 Gold, +2 Production] [in all cities] <after discovering [Machinery]>"
 		],
 		"cities": ["Theodosiana","Mali","Monakhoburg"]
+	},
+
+	{
+		"name": "CIV+5",
+		"leaderName": "Eumyugi",
+		"adjective": ["The New"],
+		"preferredVictoryType": "Neutral",
+		
+		"startIntroPart1": "Through strife and through glory, our society has endured… and now stands upon the foundation where all newborn nations take their first steps. United by a single purpose, we gaze upon the path that stretches open toward the future",
+		"startIntroPart2": "Now… the age of civilization begins",
+		
+		"declaringWar": "We can no longer tolerate you. Prepare for war.",
+		"attacked": "If it is war you want, then war you shall have.",
+		"defeated": "So… this is the end of our people. May history remember us.",
+		"introduction": "You stand before our nation. May our meeting be fruitful.",
+		
+		"neutralHello": "It is good to see you again.",
+		"neutralLetsHearIt" : ["Is that so.","I want to hear it"],
+		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
+		"neutralYes": ["This is agreeable. Let us seal the deal.","Very well. We accept your terms.","That is very good."],
+
+		"hateHello": "What do you want now?",
+		"hateLetsHearIt" : ["What are you trying to say?"],
+		"hateNo": ["That is not possible!","We are not agreeing to that!","Never. We will not yield to such terms."],
+		"hateYes": ["That is fine.","That is good enough.","Very well. For now, we agree."],
+		
+		"afterPeace": "Very well. We shall end this war.",
+		"tradeRequest": "Consider this offer. It could serve us well.",
+
+		"outerColor": [16,16,16],
+		"innerColor": [255,200,200],
+		"uniqueName": "Fifth Buff",
+		"uniques": [
+			"[+25]% growth [in all cities]",
+			"[Gold] cost of purchasing items in cities [-50]%",
+			"[+25]% [Production] [in all cities]",
+			"[+15]% [Culture]",
+			"[+25]% [Gold]",
+			"[+15]% [Science]",
+			"[+15]% [Happiness]",
+			"[+25]% [Faith]",
+			"[+15]% [Food]",
+			"[-25]% unhappiness from the number of cities",
+			"[-50]% maintenance on road & railroads",
+			"[-25]% construction time for [All] improvements",
+			"[15] Unit Supply",
+			"[+25]% Strength",
+			"[+25]% XP gained from combat"
+		]
 	}
 ]
