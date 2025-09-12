@@ -51,7 +51,6 @@
 		"name": "Wooden Sword Warrior",
 		"unitType": "Sword",
 		"uniqueTo": "Eastern Roman Empire",
-		"replaces": "Warrior",
 		"movement": 2,
 		"strength": 5,
 		"cost": 20,
