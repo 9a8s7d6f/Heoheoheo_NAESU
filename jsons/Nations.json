@@ -30,7 +30,7 @@
 		"outerColor": [255,255,255],
 		"innerColor": [225, 215, 0],
 		"uniqueName": "birthplace of civilization",
-		"unique": [
+		"uniques": [
 			"[+1 Gold, +1 Production] [in all cities]",
 			"[+1 Gold, +1 Production] [in this city] <in cities connected to the capital>",
 			"[+1453]% Production when constructing [Aya Sofya] wonders [in capital]",
@@ -89,7 +89,7 @@
 		"outerColor": [16,16,16],
 		"innerColor": [255,200,200],
 		"uniqueName": "accumulation of wealth",
-		"unique": [
+		"uniques": [
 			"[+2 Gold] [in capital]",
 			"[+2 Gold] [in all cities] <after discovering [Mining]>",
 			"[+3 Gold, +2 Production] [in all cities] <after discovering [Machinery]>"
