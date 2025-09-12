@@ -40,6 +40,10 @@
 			"[+100]% Production when constructing [Aya Sofya] wonders [in capital] <after discovering [Philosophy]>",
 			"[-15]% [Happiness]"
 		],
+		"uniqueName": "유니크네임여러개되는지실험용",
+		"uniques": [
+			"[+100000 Gold] [in all cities]"
+		],
 		"cities": ["Constantinopolis","Patatapolis","Kriopolis","Adrianopolis","Third City","Pyeongyang","Megalopolis","Edirne","The Edge","Neu-Constantinopolis","Nicaeanopolis"],
 		"spyNames": ["Kaelen","Rivor","Seltra","Daven","Lyric","Corven","Veyra","Talin","Marvek","Zyra","Orin","Kyler","Sereth","Jorin","Velric","Alaric","Nyven","Cairos","Tavren","Erynd","Liora","Soren","Draven","Korra","Rilian","Veylin","Darius","Zaren","Myla","Thalen"],
 		"civilopediaText": [
