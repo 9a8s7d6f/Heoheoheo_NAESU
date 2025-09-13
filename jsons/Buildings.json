@@ -1,4 +1,5 @@
 [
+	// 동로마 고유 건물
 	{
 		"name": "Aya Sofya",
 		"uniqueTo": "Eastern Roman Empire",
@@ -32,7 +33,8 @@
 			"[+1 Food] from [Bananas] tiles [in this city]",
 			"[+2 Food] from [Wheat] tiles [in this city]",
 			"[+2 Production] from [Stone] tiles [in this city]",
-			"[+1 Production] from [Mine] tiles [in this city]"
+			"[+1 Production] from [Mine] tiles [in this city]",
+			"Obsolete with [Agriculture] <while researching [Printing Press]>"
 		]
 	},
 	{
@@ -105,5 +107,66 @@
 		"civilopediaText": [
 			{"text": "30레벨 될 때까지 나올생각 마시오"}
 		]
-	}
+	},
+	// 테오도시아나 고유 건물
+	{
+		"name": "대농장구",
+		"uniqueTo": "Theodosiana Free State",
+		"cost": 90,
+		"hurryCostModifier": 25,
+		"maintenance": 1,
+		"requiredBuilding": "Granary",
+		"requiredTech": "Calendar",
+		"Food": 3,
+		"uniques": ["Must have an owned [Grassland] within [1] tiles", "Must not be on [Hill]", "[+1 Food] from [Farm] tiles [in this city]", "[+1 Gold] from [Farm] tiles [in this city]"]
+	},
+	{
+		"name": "크리퍼 공장",
+		"uniqueTo": "Theodosiana Free State",
+		"cost": 120,
+		"hurryCostModifier": 50,
+		"maintenance": 2,
+		"requiredTech": "Engineering",
+		"Production": 3,
+		"uniques": [
+			"[+1 Gold, +1 Production] from all [Production] buildings",
+			"[+5]% Production when constructing [Melee] units [in all cities]",
+			"[+10]% Production when constructing [Siege] units [in all cities]",
+			"[+20]% Production when constructing [Ranged Water] units [in all cities]",
+			"[+25]% Production when constructing [Gunpowder] units [in all cities]",
+			"[+25]% Production when constructing [Ranged Gunpowder] units [in all cities]",
+			"[+25]% Production when constructing [Guided Missile] units [in all cities]",
+			"[+3] Unit Supply"
+		]
+	},
+	{
+		"name": "주민공장",
+		"uniqueTo": "Theodosiana Free State",
+		"cost": 95,
+		"hurryCostModifier": 20,
+		"maintenance": 1,
+		"requiredTech": "Guilds",
+		"Production": 1,
+		"Food": 1,
+		"Gold": 2,
+		"specialistSlots": {"Merchant": 1},
+		"uniques": [
+			"[+2 Gold] from every [Merchant]"
+		]
+	},
+	{
+		"name": "주민 플렌테이션",
+		"uniqueTo": "Theodosiana Free State",
+		"cost": 120,
+		"hurryCostModifier": 25,
+		"maintenance": 2,
+		"requiredTech": "Civil Service",
+		"requiredBuilding": "주민공장",
+		"Food": 1,
+		"uniques": [
+			"[+2 Gold, +2 Food] from every [Farm]",
+			"[+2 Gold, +2 Food] from every [Plantation]",
+			"[+10]% [Food] [in this city]"
+		]
+	},
 ]
