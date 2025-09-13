@@ -40,7 +40,9 @@
 			"[+500]% Production when constructing [Aya Sofya] wonders [in capital] <after discovering [Construction]>",
 			"[+500]% Production when constructing [Aya Sofya] wonders [in capital] <after discovering [Engineering]>",
 			"[+500]% Production when constructing [Aya Sofya] wonders [in capital] <after discovering [Philosophy]>",
-			"[-15]% [Happiness]"
+			"[-25]% [Happiness]",
+			"Nullifies [Culture] [in all cities] <when below [-30] [Happiness]>",
+			"Nullifies [Science] [in all cities] <when below [-30] [Happiness]>"
 		],
 		"cities": ["Constantinopolis","Patatapolis","Kriopolis","Adrianopolis","Third City","Pyeongyang","Megalopolis","Edirne","The Edge","Neu-Constantinopolis","Nicaeanopolis"],
 		"spyNames": ["Kaelen","Rivor","Seltra","Daven","Lyric","Corven","Veyra","Talin","Marvek","Zyra","Orin","Kyler","Sereth","Jorin","Velric","Alaric","Nyven","Cairos","Tavren","Erynd","Liora","Soren","Draven","Korra","Rilian","Veylin","Darius","Zaren","Myla","Thalen"],
