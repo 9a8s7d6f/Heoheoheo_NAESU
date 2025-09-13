@@ -28,7 +28,8 @@
 			"Can build [Land] improvements on tiles",
 			"Automation is a primary action",
 			"Can build [All] improvements at a [+30]% rate <when number of [Happiness] is more than [-5]>",
-			"Can build [All] improvements at a [-30]% rate <when number of [Happiness] is less than [-5]>"
+			"Can build [All] improvements at a [-30]% rate <when number of [Happiness] is less than [-5]>",
+			"Can speed up construction of a building"
 		],
 		"cost": 27
 	},
