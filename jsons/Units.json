@@ -135,7 +135,7 @@
 		"upgradesTo": "Lancer",
 		"uniques": ["[-66]% Strength <when attacking>", "[+75]% Strength <when defending>"],
 		"attackSound": "metalhit"
-		"promotions": ["Cover I", "Cover II", "Cover III"],
+		"promotions": ["Cover I", "Cover II"],
 		"civilopediaText": [
 			{"text": "무거운 방패와 전신 갑옷으로 적의 공격을 막는다."}
 		]
