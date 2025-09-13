@@ -132,7 +132,6 @@
 		"uniques": [
 			"Founds a new city <once>",
 			"Requires at least [2] population",
-			"[-30]% Strength decreasing with distance from the capital",
 			"[+100]% production cost <when below [-10] [Happiness]>",
 			"[+10]% to Flank Attack bonuses",
 			"[+30]% Strength <when below [30] HP>",
