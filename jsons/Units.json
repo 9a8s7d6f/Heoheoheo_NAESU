@@ -127,6 +127,7 @@
 		],
 		"movement": 3,
 		"strength": 15,
+		"hurryCostModifier": 50",
 		"cost": 130,
 		"uniques": [
 			"Founds a new city <once>",
@@ -150,7 +151,8 @@
 		"movement": 2,
 		"strength": 8,
 		"rangedStrength": 40,
-		"cost": 150,
+		"cost": 200,
+		"hurryCostModifier": -50",
 		"requiredTech": "Mathematics",
 		"uniques": [
 			"Self-destructs when attacking",
