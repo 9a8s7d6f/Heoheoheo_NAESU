@@ -101,7 +101,7 @@
 		"upgradesTo": "중갑병",
 		"uniques": ["[-50]% Strength <when attacking>", "[+50]% Strength <when defending>"],
 		"attackSound": "nonmetalhit"
-		"promotions": ["Cover I", "Cover II"],
+		"promotions": ["Cover I"],
 		"civilopediaText": [
 			{"text": "방패를 앞세워서 적의 공격을 막는다."}
 		]
@@ -186,7 +186,7 @@
 		"range": 2,
 		"cost": 80,
 		"requiredTech": "Horseback Riding",
-		"requiredResource": "Horse",
+		"requiredResource": "Horses",
 		"obsoleteTech": "Chivalry",
 		"upgradesTo": "가스트 활공병",
 		"attackSound": "arrow"
@@ -211,7 +211,7 @@
 		"range": 2,
 		"cost": 125,
 		"requiredTech": "Chivalry",
-		"requiredResource": "Horse",
+		"requiredResource": "Horses",
 		"attackSound": "arrow"
 		"uniques": [
 			"[+20]% Strength <vs [Melee] units>",
