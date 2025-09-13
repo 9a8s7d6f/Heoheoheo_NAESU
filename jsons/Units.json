@@ -258,23 +258,22 @@
 		"civilopediaText": [
 			{"text": "이것도 너프해 보시지!"}
 		],
-		"movement": 2,
-		"strength": 50,
-		"rangedStrength": 50,
+		"movement": 4,
+		"strength": 70,
+		"rangedStrength": 70,
 		"range": 1,
-		"cost": 200,
+		"cost": 100,
 		"hurryCostModifier": -50,
 		"requiredTech": "Mathematics",
 		"uniques": [
 			"Self-destructs when attacking",
-			"Blast radius [2]",
 			"No defensive terrain bonus",
 			"No defensive terrain penalty",
+			"[+100]% Strength <when attacking>",
 			"Unable to capture cities",
 			"[-100]% XP gained from combat",
 			"[-75]% Strength <vs cities>",
 			"[+1] Movement <upon being promoted>",
-			"Double movement in [Foreign Land]"
 		],
 		"attackSound": "tankshot"
 	}
