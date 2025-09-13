@@ -150,7 +150,7 @@
 		"strength": 8,
 		"rangedStrength": 40,
 		"cost": 150,
-		"requiredTech": "Mathmetics",
+		"requiredTech": "Mathematics",
 		"uniques": [
 			"Self-destructs when attacking",
 			"Blast radius [1]",
