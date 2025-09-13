@@ -41,7 +41,7 @@
 		"civilopediaText": [
 			{"text": "모낙호는 언제나 탐험을 하고싶어한다. 그치만 몸이 물몸이여서 어딜가든 뒤져버린다."}
 		],
-		"movement": 5,
+		"movement": 3,
 		"strength": 8,
 		"cost": 120,
 		"requiredTech": "The Wheel",
@@ -51,7 +51,7 @@
 			"Founds a new city <by consuming this unit>",
 			"Requires at least [3] population",
 			"Unable to capture cities",
-			"[+50]% XP required for promotions"
+			"[-50]% XP gained from combat"
 		],
 		"attackSound": "nonmetalhit"
 	},
@@ -59,6 +59,7 @@
 		"name": "Wooden Sword Warrior",
 		"unitType": "Sword",
 		"replaces": "Warrior",
+		"uniqueTo": "Eastern Roman Empire",
 		"movement": 2,
 		"strength": 5,
 		"cost": 15,
@@ -73,6 +74,7 @@
 	{
 		"name": "Stone Sword Warrior",
 		"unitType": "Sword",
+		"uniqueTo": "Eastern Roman Empire",
 		"movement": 2,
 		"strength": 9,
 		"cost": 40,
@@ -101,6 +103,7 @@
 	{
 		"name": "Iron Swordsman",
 		"unitType": "Sword",
+		"uniqueTo": "Eastern Roman Empire",
 		"replaces": "Swordsman",
 		"movement": 2,
 		"strength": 14,
@@ -113,5 +116,52 @@
 		"civilopediaText": [
 			{"text": "일반적인 무장."}
 		]
+	},
+	{
+		"name": "True Monakho",
+		"unitType": "Sword",
+		"uniqueTo": "Theodosiana Free State",
+		"replaces": "Settler",
+		"civilopediaText": [
+			{"text": "모낙호는 언제나 탐험을 하고싶어한다. 그치만 몸이 물몸이여서 어딜가든 뒤져버린다."}
+		],
+		"movement": 4,
+		"strength": 15,
+		"cost": 120,
+		"uniques": [
+			"Founds a new city <once>",
+			"Requires at least [2] population",
+			"[-30]% Strength decreasing with distance from the capital",
+			"[+100]% production cost <when below [-10] [Happiness]>",
+			"[+10]% to Flank Attack bonuses",
+			"[+30]% Strength <upon losing at least [50] HP in a single attack>",
+			"[+1] Movement <when [Wounded]>"
+		],
+		"attackSound": "metalhit"
+	},
+	{
+		"name": "TNT",
+		"unitType": "Gunpowder",
+		"uniqueTo": "Theodosiana Free State",
+		"civilopediaText": [
+			{"text": "이것도 너프해 보시지!"}
+		],
+		"movement": 2,
+		"strength": 8,
+		"rangedStrength": 40,
+		"cost": 150,
+		"requiredTech": "Mathmetics",
+		"uniques": [
+			"Self-destructs when attacking",
+			"Blast radius [1]",
+			"No defensive terrain bonus",
+			"No defensive terrain penalty",
+			"Unable to capture cities",
+			"[-100]% XP gained from combat",
+			"[+50]% Strength bonus for [Non-City] units within [2] tiles",
+			"[+1] Movement <upon being promoted>",
+			"Double movement in [Foreign Land]"
+		],
+		"attackSound": "tankshot"
 	}
 ]
