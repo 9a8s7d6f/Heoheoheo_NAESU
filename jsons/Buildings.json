@@ -79,8 +79,8 @@
 	{
 		"name": "Potato hydroponics plantation",
 		"uniqueTo": "Eastern Roman Empire",
-		"Food": 2,
-		"Gold": 1,
+		"food": 2,
+		"gold": 1,
 		"percentStatBonus": {"food": 15},
 		"cost": 80,
 		"hurryCostModifier": 10,
@@ -117,7 +117,7 @@
 		"maintenance": 1,
 		"requiredBuilding": "Granary",
 		"requiredTech": "Calendar",
-		"Food": 3,
+		"food": 3,
 		"uniques": ["Must have an owned [Grassland] within [1] tiles", "Must not be on [Hill]", "[+1 Food] from [Farm] tiles [in this city]", "[+1 Gold] from [Farm] tiles [in this city]"]
 	},
 	{
@@ -127,7 +127,7 @@
 		"hurryCostModifier": 50,
 		"maintenance": 2,
 		"requiredTech": "Engineering",
-		"Production": 3,
+		"production": 3,
 		"uniques": [
 			"[+1 Gold, +1 Production] from all [Production] buildings",
 			"[+5]% Production when constructing [Melee] units [in all cities]",
@@ -146,9 +146,9 @@
 		"hurryCostModifier": 20,
 		"maintenance": 1,
 		"requiredTech": "Guilds",
-		"Production": 1,
-		"Food": 1,
-		"Gold": 2,
+		"production": 1,
+		"food": 1,
+		"gold": 2,
 		"specialistSlots": {"Merchant": 1},
 		"uniques": [
 			"[+2 Gold] from every [Merchant]"
@@ -162,7 +162,7 @@
 		"maintenance": 2,
 		"requiredTech": "Civil Service",
 		"requiredBuilding": "주민공장",
-		"Food": 1,
+		"food": 1,
 		"uniques": [
 			"[+2 Gold, +2 Food] from every [Farm]",
 			"[+2 Gold, +2 Food] from every [Plantation]",
