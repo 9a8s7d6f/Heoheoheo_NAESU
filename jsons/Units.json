@@ -41,19 +41,26 @@
 			{"text": "모낙호는 언제나 탐험을 하고싶어한다. 그치만 몸이 물몸이여서 어딜가든 뒤져버린다."}
 		],
 		"movement": 5,
-		"strength": 20,
+		"strength": 8,
 		"cost": 120,
 		"requiredTech": "The Wheel",
-		"uniques": ["Can move after attacking", "No defensive terrain bonus", "Founds a new city <by consuming this unit>", "Requires at least [3] population"],
+		"uniques": [
+			"Can move after attacking",
+			"No defensive terrain bonus",
+			"Founds a new city <by consuming this unit>",
+			"Requires at least [3] population",
+			"Unable to capture cities",
+			"[+50]% XP required for promotions"
+		],
 		"attackSound": "nonmetalhit"
 	},
 	{
 		"name": "Wooden Sword Warrior",
 		"unitType": "Sword",
-		"uniqueTo": "Eastern Roman Empire",
+		"replaces": "Warrior",
 		"movement": 2,
 		"strength": 5,
-		"cost": 20,
+		"cost": 15,
 		"obsoleteTech": "Mining",
 		"upgradesTo": "Stone Sword Warrior",
 		"uniques": ["May upgrade to [Stone Sword Warrior] through ruins-like effects"],
@@ -65,16 +72,15 @@
 	{
 		"name": "Stone Sword Warrior",
 		"unitType": "Sword",
-		"uniqueTo": "Eastern Roman Empire",
-		"replaces": "Warrior",
 		"movement": 2,
 		"strength": 9,
-		"cost": 45,
+		"cost": 40,
 		"requiredTech": "Mining",
 		"obsoleteTech": "Iron Working",
 		"upgradesTo": "Iron Swordsman",
 		"uniques": ["May upgrade to [Iron Swordsman] through ruins-like effects"],
 		"attackSound": "nonmetalhit",
+		"promotions": ["Shock I"],
         "civilopediaText": [
 			{"text": "기초적인 무장."}
 		]
@@ -94,7 +100,6 @@
 	{
 		"name": "Iron Swordsman",
 		"unitType": "Sword",
-		"uniqueTo": "Eastern Roman Empire",
 		"replaces": "Swordsman",
 		"movement": 2,
 		"strength": 14,
@@ -103,6 +108,7 @@
 		"upgradesTo": "Longswordsman",
 		"hurryCostModifier": 20,
 		"attackSound": "metalhit",
+		"promotions": ["Shock I", "Drill I"],
 		"civilopediaText": [
 			{"text": "일반적인 무장."}
 		]
