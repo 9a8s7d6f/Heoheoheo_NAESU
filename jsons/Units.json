@@ -149,18 +149,20 @@
 			{"text": "이것도 너프해 보시지!"}
 		],
 		"movement": 2,
-		"strength": 8,
-		"rangedStrength": 30,
+		"strength": 50,
+		"rangedStrength": 50,
+		"range": 1,
 		"cost": 200,
 		"hurryCostModifier": -50,
 		"requiredTech": "Mathematics",
 		"uniques": [
 			"Self-destructs when attacking",
+			"Blast radius [2]",
 			"No defensive terrain bonus",
 			"No defensive terrain penalty",
 			"Unable to capture cities",
 			"[-100]% XP gained from combat",
-			"[+50]% Strength bonus for [Non-City] units within [2] tiles",
+			"[-75]% Strength <vs cities>",
 			"[+1] Movement <upon being promoted>",
 			"Double movement in [Foreign Land]"
 		],
