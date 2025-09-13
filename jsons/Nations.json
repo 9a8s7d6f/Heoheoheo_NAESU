@@ -90,7 +90,8 @@
 		"innerColor": [255,200,200],
 		"uniqueName": "accumulation of wealth",
 		"uniques": [
-			"[+2 Gold] [in capital]",
+			"[+2 Gold] [in all cities]",
+			"[+10]% [Gold] [in capital]",
 			"[+50]% [Strategic] resource production",
 			"[+2 Gold] [in all cities] <after discovering [Mining]>",
 			"[+1 Gold, +1 Production] [in all cities] <after discovering [Machinery]>",
