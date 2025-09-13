@@ -9,6 +9,7 @@
 		"specialistSlots": {"Artist": 2},
 		"requiredTech": "Construction",
 		"uniques": ["Limited to [1] per Civilization", "[50]% production cost <upon discovering [Construction] technology>"],
+		"quote": "ㅊㅋ"
 		"civilopediaText": [
 			{"text": "섬록암으로 만들어진 동로마제국의 랜드마크!"}
 		]
