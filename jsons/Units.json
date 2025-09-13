@@ -89,16 +89,22 @@
 		]
 	},
 	{
-		"name": "Spearman",
+		"name": "방패병",
 		"unitType": "Sword",
+		"uniqueTo": "Eastern Roman Empire",
+		"replaces": "Spearman",
 		"movement": 2,
 		"strength": 11,
-		"cost": 56,
+		"cost": 46,
 		"requiredTech": "Bronze Working",
 		"obsoleteTech": "Civil Service",
-		"upgradesTo": "Pikeman",
-		"uniques": ["[+50]% Strength <vs [Mounted] units>"],
-		"attackSound": "metalhit"
+		"upgradesTo": "중갑병",
+		"uniques": ["[-50]% Strength <when attacking>", "[+50]% Strength <when defending>"],
+		"attackSound": "nonmetalhit"
+		"promotions": ["Cover I", "Cover II"],
+		"civilopediaText": [
+			{"text": "방패를 앞세워서 적의 공격을 막는다."}
+		]
 	},
 	{
 		"name": "Iron Swordsman",
@@ -117,6 +123,60 @@
 			{"text": "일반적인 무장."}
 		]
 	},
+	{
+		"name": "중갑병",
+		"unitType": "Sword",
+		"uniqueTo": "Eastern Roman Empire",
+		"replaces": "Pikeman",
+		"movement": 2,
+		"strength": 16,
+		"cost": 80,
+		"requiredTech": "Civil Service",
+		"upgradesTo": "Lancer",
+		"uniques": ["[-66]% Strength <when attacking>", "[+75]% Strength <when defending>"],
+		"attackSound": "metalhit"
+		"promotions": ["Cover I", "Cover II", "Cover III"],
+		"civilopediaText": [
+			{"text": "무거운 방패와 전신 갑옷으로 적의 공격을 막는다."}
+		]
+	},
+	{
+		"name": "Toxophilite",
+		"unitType": "Archery",
+		"uniqueTo": "Eastern Roman Empire",
+		"replaces": "Archer",
+		"movement": 2,
+		"strength": 5,
+		"rangedStrength": 7,
+		"cost": 50,
+		"requiredTech": "Archery",
+		"obsoleteTech": "Construction",
+		"upgradesTo": "Composite Bowman",
+		"uniques": ["[3] Range <when stacked with a [Mo bidick] unit>"],
+		"attackSound": "arrow"
+		"civilopediaText": [
+			{"text": "저 는활 을쏠거 에요"}
+		]
+	},
+	{
+		"name": "Arbalist",
+		"unitType": "Archery",
+		"movement": 2,
+		"strength": 12,
+		"rangedStrength": 16,
+		"cost": 120,
+		"requiredTech": "Machinery",
+		"upgradesTo": "Gatling Gun",
+		"obsoleteTech": "Industrialization",
+		"attackSound": "crossbow"
+		"uniques": ["[3] Range <when stacked with a [Mo bidick] unit>"],
+		"civilopediaText": [
+			{"text": "저 는석 궁을 쏠거에 요"}
+		]
+	},
+	
+	// 테오도시아나 고유유닛
+	
 	{
 		"name": "True Monakho",
 		"unitType": "Sword",
