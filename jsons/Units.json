@@ -125,17 +125,18 @@
 		"civilopediaText": [
 			{"text": "모낙호는 언제나 탐험을 하고싶어한다. 그치만 몸이 물몸이여서 어딜가든 뒤져버린다."}
 		],
-		"movement": 4,
+		"movement": 3,
 		"strength": 15,
-		"cost": 120,
+		"cost": 130,
 		"uniques": [
 			"Founds a new city <once>",
 			"Requires at least [2] population",
 			"[-30]% Strength decreasing with distance from the capital",
 			"[+100]% production cost <when below [-10] [Happiness]>",
 			"[+10]% to Flank Attack bonuses",
-			"[+30]% Strength <upon losing at least [50] HP in a single attack>",
-			"[+1] Movement <when [Wounded]>"
+			"[+30]% Strength <when below [30] HP>",
+			"[+1] Movement <when below [60] HP>",
+			"[+1] Movement <when below [30] HP>"
 		],
 		"attackSound": "metalhit"
 	},
