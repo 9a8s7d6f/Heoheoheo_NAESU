@@ -22,9 +22,9 @@
 	{
 		"name": "불사의 토템",
     "uniques": [
-          "[This Unit] heals [100] HP <once> <upon being defeated>",
-          "[This Unit] heals [80] HP <once> <when below [20] HP>",
-					"[This Unit] heals [60] HP <[3] times> <upon losing at least [3] HP in a single attack>"
+		"[This Unit] heals [100] HP <once> <upon being defeated>",
+		"[This Unit] heals [80] HP <once> <when below [20] HP>",
+		"[This Unit] heals [60] HP <[3] times> <upon losing at least [3] HP in a single attack>"
 		]
   }
 ]
