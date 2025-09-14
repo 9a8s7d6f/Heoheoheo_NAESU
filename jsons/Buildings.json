@@ -171,6 +171,7 @@
 			"Can only be built <in [in capital] cities>",
 			"Reveal up to [all] [All] within a [16] tile radius",
 			"Reveal up to [all] [All] within a [32] tile radius <after discovering [Astronomy]>"
+		]
 	},
 	
 	// 테오도시아나 고유 건물
