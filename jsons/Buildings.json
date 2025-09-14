@@ -289,7 +289,8 @@
 			"Can only be built <in [in capital] cities>",
 			"Destroyed when the city is captured",
 			"Cannot be purchased",
-			"All newly-trained [Military] units [in all cities] receive the [결사적 방어] promotion"
+			"All newly-trained [Military] units [in all cities] receive the [결사적 방어] promotion",
+			"[+30]% Production when constructing [Military] units [in this city]"
 		]
 	},
 	// 모비딕폴리스 고유 건물
