@@ -164,13 +164,15 @@
 		"name": "지도방",
 		"uniqueTo": "Eastern Roman Empire",
 		"maintenance": 1,
-		"cost": 60,
+		"cost": 80,
 		"hurryCostModifier": 75,
 		"requiredTech": "Writing"
 		"uniques": [
 			"Can only be built <in [in capital] cities>",
-			"Reveal up to [all] [All] within a [16] tile radius",
-			"Reveal up to [all] [All] within a [32] tile radius <after discovering [Astronomy]>"
+			"Reveal up to [all] [All] within a [6] tile radius",
+			"Reveal up to [all] [All] within a [8] tile radius <after discovering [Optics]>",
+			"Reveal up to [all] [All] within a [16] tile radius <after discovering [Compass]>",
+			"Reveal up to [all] [All] within a [32] tile radius <after discovering [Navigation]>"
 		]
 	},
 	
