@@ -11,7 +11,7 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: write
+  contents: Read and write
 
 jobs:
   unciv-lint:
