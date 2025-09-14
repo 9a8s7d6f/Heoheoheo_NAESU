@@ -4,12 +4,12 @@
 		"name": "Aya Sofya",
 		"uniqueTo": "Eastern Roman Empire",
 		"cost": 1453,
-		"happiness": 5,
-		"culture": 6,
-		"science": 6,
+		"happiness": 4,
+		"culture": 4,
+		"science": 4,
 		"specialistSlots": {"Artist": 2},
 		"requiredTech": "Construction",
-		"uniques": ["Limited to [1] per Civilization", "[50]% production cost <after discovering [Construction]>"],
+		"uniques": ["Limited to [1] per Civilization", "[50]% production cost <after discovering [Construction]>", "Free Social Policy"],
 		"quote": "ㅊㅋ"
 		"civilopediaText": [
 			{"text": "섬록암으로 만들어진 동로마제국의 랜드마크!"}
