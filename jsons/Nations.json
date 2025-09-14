@@ -74,7 +74,7 @@
 		"name": "Theodosiana Free State",
 		"leaderName": "Monakho",
 		"adjective": ["jenaiquiterd"],
-		"startBias": ["Desert"],
+		"startBias": ["Plain"],
 		"preferredVictoryType": "Diplomatic",
 		
 		"startIntroPart1": "asdf",
