@@ -284,13 +284,12 @@
 		"cost": 50,
 		"hurryCostModifier": 25,
 		"uniques": [
-			"Can only be built <when fighting units from a Civilization with more Cities than you>",
+			"Unbuildable",
 			"Triggers a global alert upon build start",
-			"Can only be built <in [in capital] cities>",
 			"Destroyed when the city is captured",
 			"Cannot be purchased",
-			"All newly-trained [Military] units [in all cities] receive the [결사적 방어] promotion",
-			"[+30]% Production when constructing [Military] units [in this city]"
+			"All newly-trained [Military] units [in all cities] receive the [결사적 방어] promotion <when at war>",
+			"[+30]% Production when constructing [Military] units [in this city] <when at war>"
 		]
 	},
 	// 모비딕폴리스 고유 건물
