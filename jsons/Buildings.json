@@ -190,6 +190,23 @@
 	
 	// 테오도시아나 고유 건물
 	{
+		"name": "테오도시아나 기념비",
+		"uniqueTo": "Theodosiana Free State",
+		"cost": 70,
+		"hurryCostModifier": 25,
+		"requiredTech": "Pottery",
+		"gold": 3,
+		"production": 3,
+		"science": 3,
+		"percentStatBonus": {"production": 10},
+		"percentStatBonus": {"science": 10},
+		"uniques": [
+			"[-10]% Unhappiness from [Population] [in all cities]",
+			"Can only be built <in [in capital] cities>",
+			"Reveal up to [all] [Land] within a [8] tile radius <after discovering [Optics]>"
+			]
+	},
+	{
 		"name": "대농장구",
 		"uniqueTo": "Theodosiana Free State",
 		"cost": 90,
