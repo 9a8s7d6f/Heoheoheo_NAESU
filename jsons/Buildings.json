@@ -9,7 +9,7 @@
 		"science": 4,
 		"specialistSlots": {"Artist": 2},
 		"requiredTech": "Construction",
-		"uniques": ["Limited to [1] per Civilization", "[50]% production cost <after discovering [Construction]>", "Free Social Policy"],
+		"uniques": ["Limited to [1] per Civilization", "[50]% production cost <after discovering [Construction]>", "Free Social Policy", "Triggers a global alert upon completion"],
 		"quote": "ㅊㅋ"
 		"civilopediaText": [
 			{"text": "섬록암으로 만들어진 동로마제국의 랜드마크!"}
@@ -106,6 +106,47 @@
 		"requiredTech": "Steel",
 		"civilopediaText": [
 			{"text": "30레벨 될 때까지 나올생각 마시오"}
+		]
+	},
+	{
+		"name": "주민슈비츠",
+		"uniqueTo": "Eastern Roman Empire",
+		"replaces": "Market",
+		"cost": 120,
+		"gold": 3,
+		"food": 1,
+		"science": 1,
+		"happiness": -1,
+		"specialistSlots": {"Merchant": 1},
+		"hurryCostModifier": 25,
+		"percentStatBonus": {"gold": 25},
+		"requiredTech": "Currency"
+		"uniques": [
+			"Limited to [5] per Civilization",
+			"Provides [1] [Iron] <upon entering the [Renaissance era]>",
+			"[+20]% Production when constructing [land units] units [in all cities]"
+		],
+		"civilopediaText": [
+			{"text": "주민슈비츠 설명"}
+		]
+	},
+	{
+		"name": "대리석 법원",
+		"uniqueTo": "Eastern Roman Empire",
+		"replaces": "Courthouse",
+		"maintenance": 3,
+		"cost": 120,
+		"culture": 2,
+		"hurryCostModifier": 60,
+		"requiredTech": "Mathematics"
+		"uniques": [
+			"Removes extra unhappiness from annexed cities",
+			"[-15]% Unhappiness from [Population] [in this city]",
+			"[+2 Culture, +1 Faith] [in this city] <upon adopting [Tradition Complete]>",
+			"[+1 Culture, +1 Happiness] [in this city] <upon adopting [Liberty Complete]>"
+		],
+		"civilopediaText": [
+			{"text": "대리석 법원 설명"}
 		]
 	},
 	// 테오도시아나 고유 건물
