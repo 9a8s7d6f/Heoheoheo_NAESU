@@ -276,22 +276,9 @@
 			"[+1] Movement <upon being promoted>",
 		],
 		"attackSound": "tankshot"
-	},
+	}
 
 	// 모비딕폴리스 고유유닛
 
-	{
-		"name": "지상운송 테스트",
-		"unitType": "Armored",
-		"uniqueTo": "모비딕폴리스",
-		"movement": 5,
-		"strength": 40,
-		"cost": 30,
-		"requiredTech": "The Wheel",
-		"uniques": [
-			"Cannot attack",
-			"Can carry [4] [{Military} {Land}] units"
-		],
-		"attackSound": "metalhit"
-	},
+	
 ]
