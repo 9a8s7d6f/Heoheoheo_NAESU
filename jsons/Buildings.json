@@ -160,6 +160,19 @@
 			{"text": "대리석 법원 설명"}
 		]
 	},
+	{
+		"name": "지도방",
+		"uniqueTo": "Eastern Roman Empire",
+		"maintenance": 1,
+		"cost": 60,
+		"hurryCostModifier": 75,
+		"requiredTech": "Writing"
+		"uniques": [
+			"Can only be built <in [in capital] cities>",
+			"Reveal up to [all] [All] within a [16] tile radius",
+			"Reveal up to [all] [All] within a [32] tile radius <after discovering [Astronomy]>"
+	},
+	
 	// 테오도시아나 고유 건물
 	{
 		"name": "대농장구",
