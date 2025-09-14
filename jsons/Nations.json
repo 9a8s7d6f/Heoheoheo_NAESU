@@ -157,7 +157,8 @@
 			"[+1 Production] from [Lumber mill] tiles [in all cities] <after discovering [Chemistry]>",
 			"[+1 Production] from all [Production] buildings",
 			"[+1 Production] from all [Production] buildings <after discovering [Physics]>",
-
+			
+			"[+50]% maintenance costs",
 			"[+1 Gold] per [5] population [in all cities]",
 			"[-20]% Culture cost of natural border growth [in all cities]",
 			"[+20]% Production towards any buildings that already exist in the Capital",
