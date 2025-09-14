@@ -9,7 +9,19 @@
 		"science": 4,
 		"specialistSlots": {"Artist": 2},
 		"requiredTech": "Construction",
-		"uniques": ["Limited to [1] per Civilization", "[50]% production cost <after discovering [Construction]>", "Free Social Policy", "Triggers a global alert upon completion"],
+		"uniques": [
+			"Limited to [1] per Civilization",
+			"[-10]% production cost <after discovering [Bronze Working]>",
+			"[-10]% production cost <after discovering [Iron Working]>",
+			"[-10]% production cost <after discovering [Mathematics]>",
+			"[-10]% production cost <after discovering [Engineering]>",
+			"[-10]% production cost <after discovering [Horseback Riding]>",
+			"[-10]% production cost <after discovering [Calendar]>",
+			"[-10]% production cost <after discovering [Writing]>",
+			"[-10]% production cost <after discovering [Philosophy]>",
+			"[-10]% production cost <after discovering [Drama and Poetry]>",
+			"Free Social Policy",
+			"Triggers a global alert upon completion"],
 		"quote": "ㅊㅋ"
 		"civilopediaText": [
 			{"text": "섬록암으로 만들어진 동로마제국의 랜드마크!"}
