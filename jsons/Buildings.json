@@ -147,7 +147,7 @@
 		"uniques": [
 			"Limited to [5] per Civilization",
 			"Provides [1] [Iron] <upon entering the [Renaissance era]>",
-			"[+20]% Production when constructing [land units] units [in all cities]"
+			"[+20]% Production when constructing [Land] units [in all cities]"
 		],
 		"civilopediaText": [
 			{"text": "주민슈비츠 설명"}
@@ -273,8 +273,8 @@
 		"uniques": [
 			"Limited to [1] per Civilization",
 			"[-66]% maintenance on road & railroads",
-			"[-33]% construction time for [road] improvements",
-			"[-66]% construction time for [railroad] improvements",
+			"[-33]% construction time for [Road] improvements",
+			"[-66]% construction time for [Railroad] improvements",
 			"Consumes [1] [Iron]"
 		]
 	},
