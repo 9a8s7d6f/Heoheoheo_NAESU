@@ -55,6 +55,8 @@
 		],
 		"attackSound": "nonmetalhit"
 	},
+
+	// 마크
 	{
 		"name": "Wooden Sword Warrior",
 		"unitType": "Sword",
@@ -223,6 +225,98 @@
 			"[3] Sight",
 			"[+1] Sight <in tiles not adjacent to [Mountain] tiles>",
 			"[+1] Movement <when above [30] HP>"
+		],
+	},
+	{
+		"name": "수영병",
+		"unitType": "Melee Water",
+		"uniqueTo": "Eastern Roman Empire",
+		"movement": 1,
+		"strength": 5,
+		"cost": 15,
+		"upgradesTo": "보트병",
+		"obsoleteTech": "Sailing",
+		"attackSound": "nonmetalhit"
+		"promotions": ["Landing Party"],
+		"uniques": [
+			"[+20]% Strength <when fighting in [Coast] tiles>",
+			"Cannot enter ocean tiles"
+			],
+		"civilopediaText": [
+			{"text": "어푸어푸"}
+		],
+	},
+	{
+		"name": "보트병",
+		"unitType": "Melee Water",
+		"uniqueTo": "Eastern Roman Empire",
+		"replaces": "Trireme",
+		"movement": 3,
+		"strength": 10,
+		"cost": 35,
+		"requiredTech": "Sailing",
+		"upgradesTo": "Caravel",
+		"obsoleteTech": "Astronomy",
+		"attackSound": "nonmetalhit"
+		"promotions": ["Landing Party"],
+		"uniques": [
+			"Cannot enter ocean tiles",
+			"Never appears as a Barbarian unit",
+			"[+20]% Strength <when fighting in [Coast] tiles>"
+			],
+		"civilopediaText": [
+			{"text": "노젓기"}
+		],
+	},
+	//Ranged Water
+	{
+		"name": "허허허53식 화차",
+		"unitType": "Siege",
+		"uniqueTo": "Eastern Roman Empire",
+		"replaces": "Catapult",
+		"movement": 2,
+		"strength": 8,
+		"rangedStrength": 10,
+		"cost": 70,
+		"requiredTech": "Trapping",
+		"obsoleteTech": "Physics",
+		"upgradesTo": "모나코53식 대포",
+		"uniques": [
+			"[+200]% Strength <vs cities> <when attacking>",
+			"[+50]% Strength <vs cities> <when defending>",
+			"Must set up to ranged attack",
+			"[-1] Sight",
+			"Never appears as a Barbarian unit"
+		],
+		"hurryCostModifier": 20,
+		"attackSound": "machinegun"
+		"civilopediaText": [
+			{"text": "설명"}
+		],
+	},
+	{
+		"name": "모나코53식 대포",
+		"unitType": "Siege",
+		"uniqueTo": "Eastern Roman Empire",
+		"replaces": "Trebuchet",
+		"movement": 2,
+		"strength": 12,
+		"rangedStrength": 15,
+		"cost": 100,
+		"requiredTech": "Physics",
+		"obsoleteTech": "Chemistry",
+		"upgradesTo": "Cannon",
+		"uniques": [
+			"[+250]% Strength <vs cities> <when attacking>",
+			"[+50]% Strength <vs cities> <when defending>",
+			"Must set up to ranged attack",
+			"[-1] Sight",
+			"Never appears as a Barbarian unit",
+			"[+50]% Strength <vs [Non-City]> <after discovering [Chivalry]>"
+		],
+		"attackSound": "cannon"
+		"civilopediaText": [
+			{"text": "설명"}
 		],
 	},
 	
