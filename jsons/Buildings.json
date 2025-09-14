@@ -16,6 +16,17 @@
 		]
 	},
 	{
+		"name": "Heoheoheodevil"
+		"uniqueTo": "Eastern Roman Empire",
+		"uniques": [
+			"Unbuildable",
+			"Shown while unbuilable",
+			"Destroyed when the city is captured",
+			"Cannot be purchased",
+			"All newly-trained [Military] units [in this city] receive the [허허허의 노예정신] promotion"
+		]
+	},
+	{
 		"name": "Storehouse",
 		"replaces": "Granary",
 		"uniqueTo": "Eastern Roman Empire",
