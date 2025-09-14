@@ -109,7 +109,8 @@
 			"[-25]% Strength <vs [Barbarians] units>",
 			"[+1 Happiness] <for every [floor( ( [Gold] / 300 ) )]>",
 			"Production to [Gold] conversion in cities changed by [+50]%",
-			"[-20]% Culture cost of natural border growth [in all cities]"
+			"[-20]% Culture cost of natural border growth [in all cities]",
+			"Gain a free [항전] [in capital]"
 		],
 		"cities": ["Theodosiana","Mali","Monakhoburg"],
 		"spyNames": ["Kaelen","Rivor","Seltra","Daven","Lyric","Corven","Veyra","Talin","Marvek","Zyra","Orin","Kyler","Sereth","Jorin","Velric","Alaric","Nyven","Cairos","Tavren","Erynd","Liora","Soren","Draven","Korra","Rilian","Veylin","Darius","Zaren","Myla","Thalen"]
