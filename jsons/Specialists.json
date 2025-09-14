@@ -1,1 +1,8 @@
-
+[
+    {
+		"name":"Worker of worker",
+		"production":1,
+		"greatPersonPoints": {"Great Worker":3},
+		"color": [0,0,255]
+	},
+]
