@@ -103,7 +103,9 @@
 		"uniques": [
 			"[+2 Gold] [in all cities]",
 			"[+2 Gold] from each Trade Route",
+			"[+10]% [Gold] [in all cities connected to capital]",
 			"[+10]% [Gold] [in capital]",
+			"[+10]% [Gold] [in all cities] <after discovering [Economics]>",
 			"[+50]% [Strategic] resource production",
 			"[+2 Gold] [in all cities] <after discovering [Mining]>",
 			"[+2 Gold, +1 Production] [in all cities] <after discovering [Machinery]>",
