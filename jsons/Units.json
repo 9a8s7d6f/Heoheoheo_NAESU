@@ -379,11 +379,19 @@
 	{
 		"name": "Great Worker",
 		"unitType": "Civilian",
-		"uniques": ["Can speed up construction of a building",
-            "Can instantly construct a [Manufactory] improvement <by consuming this unit>",
-            "Is part of Great Person group [Great Person]",
-            "Great Person - [Production]", "Unbuildable", "Uncapturable"],
+		"uniqueTo": "Eastern Roman Empire",
 		"movement": 2
+		"uniques": [
+			"Can speed up construction of a building",
+            "Can instantly construct a [Manufactory] improvement <once>",
+            "Is part of Great Person group [Great Person]",
+            "Great Person - [Worker]",
+			"Unbuildable",
+			"Uncapturable",
+			"Can build [Land] improvements on tiles",
+			"Can build [Water] improvements on tiles",
+			"Automation is a primary action"
+		],
 	},
 
 	
