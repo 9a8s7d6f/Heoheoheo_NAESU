@@ -46,7 +46,8 @@
 			"[-30]% [Production] [in all cities] <when below [-20] [Happiness]>",
 			"[-50]% [Production] [in all cities] <when below [-30] [Happiness]>",
 			"Nullifies [Culture] [in all cities] <when below [-50] [Happiness]>",
-			"Nullifies [Science] [in all cities] <when below [-50] [Happiness]>"
+			"Nullifies [Science] [in all cities] <when below [-50] [Happiness]>",
+			"Gain a free [Heoheoheodevil] [in all cities] <when number of [[World Wonder] Buildings] is more than [4]>"
 		],
 		"cities": ["Constantinopolis","Patatapolis","Kriopolis","Adrianopolis","Third City","Pyeongyang","Megalopolis","Edirne","The Edge","Neu-Constantinopolis","Nicaeanopolis"],
 		"spyNames": ["Kaelen","Rivor","Seltra","Daven","Lyric","Corven","Veyra","Talin","Marvek","Zyra","Orin","Kyler","Sereth","Jorin","Velric","Alaric","Nyven","Cairos","Tavren","Erynd","Liora","Soren","Draven","Korra","Rilian","Veylin","Darius","Zaren","Myla","Thalen"],
