@@ -6,25 +6,30 @@
           "[+10]% Strength",
           "[+10]% Strength <vs [Non-City]>"
 		]
-  },
-  {
+  	},
+  	{
       "name": "결사적 방어",
       "uniques": [
 			"[-10]% Strength <when attacking>",
         	"[+15]% Strength <when defending>",
         	"[+10]% Strength <when fighting in [Friendly Land] tiles>",
         	"[+10]% Strength <when fighting in [your] tiles>",
-			"Heals [5] damage if it kills a unit",
-        	"All healing effects doubled <when below [15] HP>",
+        	"All healing effects doubled <in [your] tiles> <when below [15] HP>",
 			"[+1] Movement <in [your] tiles>"
         ]
-  },
+	},
 	{
 		"name": "불사의 토템",
-    "uniques": [
-		"[This Unit] heals [100] HP <once> <upon being defeated>",
-		"[This Unit] heals [80] HP <once> <when below [20] HP>",
-		"[This Unit] heals [60] HP <[3] times> <upon losing at least [3] HP in a single attack>"
+    	"uniques": [
+			"[This Unit] heals [100] HP <once> <upon being defeated>",
+			"[This Unit] heals [80] HP <once> <when below [20] HP>",
+			"[This Unit] heals [60] HP <[3] times> <upon losing at least [3] HP in a single attack>"
 		]
-  }
+	},
+	{
+		"name": "승전보 I"
+		"uniques": [
+			"Heals [20] damage if it kills a unit"
+		]
+	}
 ]
