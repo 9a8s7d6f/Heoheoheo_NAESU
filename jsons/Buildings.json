@@ -45,6 +45,7 @@
 		"civilopediaText": [
 			{"text": "모비딕이한땀한땀정성스레만든목재창고를불태운모낙호가다시한땀한땀정성스레보수한목재창고@@@@@@@@@"}
 		],
+		"specialistSlots": {"Worker of worker": 2},
 		"cost": 60,
 		"food": 2,
 		"production": 2,
