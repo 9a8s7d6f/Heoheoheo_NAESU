@@ -392,6 +392,52 @@
 		],
 	},
 	{
+		"name": "피스톤 전투기",
+		"unitType": "Fighter",
+		"movement": 1,
+		"strength": 14,
+		"rangedStrength": 14,
+		"range": 3,
+		"cost": 85,
+		"requiredTech": "Machinery",
+		"upgradesTo": "Triplane",
+		"interceptRange": 3,
+		"uniques": [
+			"[50]% chance to intercept air attacks",
+			"[+150]% Strength <vs [Bomber] units>",
+			"[+50]% Strength <vs [Helicopter] units>",
+			"[+200]% Strength <vs [Blimp] units>"
+		]
+		"attackSound": "arrow"
+	},
+	{
+		"name": "피스톤 폭격기",
+		"unitType": "Bomber",
+		"movement": 1,
+		"strength": 17,
+		"rangedStrength": 17,
+		"range": 4,
+		"cost": 95,
+		"requiredTech": "Machinery",
+		"upgradesTo": "Great War Bomber",
+		"uniques": [
+			"[50]% chance to intercept air attacks",
+			"[+150]% Strength <vs [Bomber] units>",
+			"[+50]% Strength <vs [Helicopter] units>",
+			"[+200]% Strength <vs [Blimp] units>"
+		]
+		"attackSound": "bombing"
+	},
+	{
+		"name": "항공 지상함",
+		"unitType": "LandCarrier",
+		"movement": 2,
+		"strength": 20,
+		"cost": 105,
+		"requiredTech": "Metallurgy",
+		"uniques": ["Cannot attack", "Can carry [2] [Aircraft] units"]
+	},
+	{
 		"name": "철골렘",
 		"unitType": "Sword",
 		"uniqueTo": "Eastern Roman Empire",
