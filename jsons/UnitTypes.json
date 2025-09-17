@@ -14,10 +14,6 @@
 		"movementType": "Land",
 	},
 	{
-		"name": "Axeman",
-		"movementType": "Land",
-	},
-	{
 		"name": "LandCarrier",
         "movementType": "Land"
 	}
