@@ -99,12 +99,46 @@
 		"strength": 14,
 		"cost": 80,
 		"requiredTech": "Iron Working",
-		"upgradesTo": "Longswordsman",
+		"obsoleteTech": "Rifling",
+		"upgradesTo": "Diamond Swordsman",
 		"hurryCostModifier": 20,
 		"attackSound": "metalhit",
 		"promotions": ["Shock I", "Drill I"],
 		"civilopediaText": [
 			{"text": "일반적인 무장."}
+		]
+	},
+	{
+		"name": "Diamond Swordsman",
+		"unitType": "Sword",
+		"uniqueTo": "Eastern Roman Empire",
+		"replaces": "Longswordsman",
+		"movement": 2,
+		"strength": 21,
+		"cost": 140,
+		"requiredTech": "Steel",
+		"obsoleteTech": "Gunpowder",
+		"upgradesTo": "Netherite Swordsman",
+		"hurryCostModifier": 20,
+		"attackSound": "metalhit",
+		"promotions": ["Shock I", "Drill I", "Cover I"],
+		"civilopediaText": [
+			{"text": "값비싼 무장."}
+		]
+	},
+	{
+		"name": "Netherite Swordsman",
+		"unitType": "Sword",
+		"uniqueTo": "Eastern Roman Empire",
+		"movement": 2,
+		"strength": 25,
+		"cost": 162,
+		"requiredTech": "Gunpowder",
+		"upgradesTo": "Rifleman",
+		"attackSound": "metalhit"
+		"promotions": ["Shock I", "Drill I", "Cover I"],
+		"civilopediaText": [
+			{"text": "가장 강력하고 완전적인 무장."}
 		]
 	},
 	{
@@ -338,6 +372,34 @@
 		"civilopediaText": [
 			{"text": "설명"}
 		],
+	},
+	{
+		"name": "철골렘",
+		"unitType": "Sword",
+		"uniqueTo": "Eastern Roman Empire",
+		"movement": 2,
+		"strength": 30,
+		"cost": 64,
+		"requiredTech": "Metal Casting",
+		"uniques": [
+			"Consumes [4] [Iron]",
+			"Unable to pillage tiles",
+			"[-50]% Strength <when number of [Iron] is between [-99] and [0]>",
+			"[-30]% Strength <when number of [Iron] is between [1] and [2]>",
+			"[-10]% Strength <when number of [Iron] is between [3] and [4]>",
+			"[+10]% Strength <when number of [Iron] is between [5] and [6]>",
+			
+			"[+100]% maintenance costs <when number of [Iron] is between [-99] and [0]>",
+			"[+50]% maintenance costs <when number of [Iron] is between [1] and [2]>",
+			"[+0%]% maintenance costs <when number of [Iron] is between [3] and [4]>",
+			"[+100]% Strength <vs [Barbarians] units>",
+			"[+20]% Strength <when defending>"
+		],
+		"attackSound": "nonmetalhit"
+		"promotions": ["Cover I", "Cover II"],
+		"civilopediaText": [
+			{"text": "강력한 수호 골렘"}
+		]
 	},
 	
 	// 테오도시아나 고유유닛
