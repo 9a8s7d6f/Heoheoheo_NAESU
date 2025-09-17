@@ -91,24 +91,6 @@
 		]
 	},
 	{
-		"name": "방패병",
-		"unitType": "Sword",
-		"uniqueTo": "Eastern Roman Empire",
-		"replaces": "Spearman",
-		"movement": 2,
-		"strength": 11,
-		"cost": 46,
-		"requiredTech": "Bronze Working",
-		"obsoleteTech": "Civil Service",
-		"upgradesTo": "중갑병",
-		"uniques": ["[-50]% Strength <when attacking>", "[+50]% Strength <when defending>"],
-		"attackSound": "nonmetalhit"
-		"promotions": ["Cover I"],
-		"civilopediaText": [
-			{"text": "방패를 앞세워서 적의 공격을 막는다."}
-		]
-	},
-	{
 		"name": "Iron Swordsman",
 		"unitType": "Sword",
 		"uniqueTo": "Eastern Roman Empire",
@@ -126,10 +108,26 @@
 		]
 	},
 	{
-		"name": "중갑병",
-		"unitType": "Sword",
+		"name": "방패병",
+		"unitType": "Shilder",
 		"uniqueTo": "Eastern Roman Empire",
-		"replaces": "Pikeman",
+		"movement": 2,
+		"strength": 11,
+		"cost": 46,
+		"requiredTech": "Bronze Working",
+		"obsoleteTech": "Civil Service",
+		"upgradesTo": "중갑병",
+		"uniques": ["[-50]% Strength <when attacking>", "[+50]% Strength <when defending>"],
+		"attackSound": "nonmetalhit"
+		"promotions": ["Cover I"],
+		"civilopediaText": [
+			{"text": "방패를 앞세워서 적의 공격을 막는다."}
+		]
+	},
+	{
+		"name": "중갑병",
+		"unitType": "Shilder",
+		"uniqueTo": "Eastern Roman Empire",
 		"movement": 2,
 		"strength": 16,
 		"cost": 80,
@@ -142,6 +140,28 @@
 			{"text": "무거운 방패와 전신 갑옷으로 적의 공격을 막는다."}
 		]
 	},
+	{
+		"name": "도끼병",
+		"unitType": "Sword",
+		"uniqueTo": "Eastern Roman Empire",
+		"replaces": "Spearman",
+		"movement": 2,
+		"strength": 11,
+		"cost": 56,
+		"requiredTech": "Bronze Working",
+		"obsoleteTech": "Bronze Working",
+		//"upgradesTo": "",
+		"uniques": [
+			"[+10]% Strength <when attacking>",
+			"[-10]% Strength <when defending>",
+			"[+50]% Strength <vs [Shilder] units>"
+		],
+		"attackSound": "metalhit"
+		"civilopediaText": [
+			{"text": "도끼는 무겁고 강하다."}
+		]
+	},
+//"replaces": "Pikeman",
 	{
 		"name": "Toxophilite",
 		"unitType": "Archery",
@@ -180,7 +200,7 @@
 	},
 	{
 		"name": "해피 가스트",
-		"unitType": "Helicopter",
+		"unitType": "Blimp",
 		"uniqueTo": "Eastern Roman Empire",
 		"movement": 2,
 		"strength": 7,
@@ -205,7 +225,7 @@
 	},
 	{
 		"name": "가스트 활공병",
-		"unitType": "Helicopter",
+		"unitType": "Blimp",
 		"uniqueTo": "Eastern Roman Empire",
 		"movement": 3,
 		"strength": 20,
