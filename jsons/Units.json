@@ -183,8 +183,7 @@
 		"strength": 11,
 		"cost": 56,
 		"requiredTech": "Bronze Working",
-		"obsoleteTech": "Bronze Working",
-		//"upgradesTo": "",
+		"obsoleteTech": "Civil Service",
 		"uniques": [
 			"[+10]% Strength <when attacking>",
 			"[-10]% Strength <when defending>",
@@ -195,7 +194,26 @@
 			{"text": "도끼는 무겁고 강하다."}
 		]
 	},
-//"replaces": "Pikeman",
+	{
+		"name": "다이아몬드 도끼병",
+		"unitType": "Sword",
+		"uniqueTo": "Eastern Roman Empire",
+		"replaces": "Pikeman",
+		"movement": 2,
+		"strength": 16,
+		"cost": 90,
+		"requiredTech": "Civil Service",
+		"obsoleteTech": "Metallurgy",
+		"uniques": [
+			"[+10]% Strength <when attacking>",
+			"[-10]% Strength <when defending>",
+			"[+50]% Strength <vs [Shilder] units>"
+		],
+		"attackSound": "metalhit"
+		"civilopediaText": [
+			{"text": "이 도끼는 무겁고 더 강하다."}
+		]
+	},
 	{
 		"name": "Toxophilite",
 		"unitType": "Archery",
