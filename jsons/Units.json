@@ -516,7 +516,7 @@
 			"[+1] Movement <upon being promoted>",
 		],
 		"attackSound": "tankshot"
-	}
+	},
 
 	// 모비딕폴리스 고유유닛
 
@@ -538,7 +538,7 @@
 			"Can build [Water] improvements on tiles",
 			"Automation is a primary action"
 		],
-	},
+	}
 
 	
 ]
