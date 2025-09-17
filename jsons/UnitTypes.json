@@ -1,0 +1,24 @@
+[
+	{
+		"name": "Blimp",
+		"movementType": "Land",
+		"uniques": ["Can pass through impassable tiles"]
+	},
+	{
+		"name": "Skycraft",
+		"movementType": "Air",
+        "uniques": ["Aircraft"]
+	},
+	{
+		"name": "Shilder",
+		"movementType": "Land",
+	},
+	{
+		"name": "Axeman",
+		"movementType": "Land",
+	},
+	{
+		"name": "LandCarrier",
+        "movementType": "Land"
+	}
+]
