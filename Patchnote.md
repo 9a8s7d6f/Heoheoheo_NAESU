@@ -26,7 +26,7 @@ KOR->ENG, Creating KOR translation piles.
 Creating Monakho for ERE
 Reworking ERE, TFS, and buildings
 
-# 0.0.5
+## 0.0.5
 
 13.09.25
 Creating base-unique units for ERE(and it'll be applied to other Nations after it's completed)
@@ -34,7 +34,7 @@ Creating 4 buildings, 2 units for ERE&TFS
 Creating Mo_bidick Polis;MBP
 Reworking minors, Fixing errors
 
-# 0.0.5ex
+## 0.0.5ex
 
 13.09.25
 Reworking TNT unit
