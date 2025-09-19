@@ -188,12 +188,12 @@
 		"startIntroPart1": "asdf",
 		"startIntroPart2": "asdf",
 		
-		"declaringWar": "이쯤되면 전쟁할 때도 된 것 같죠?",
+		"declaringWar": "전쟁ㄱㄱ",
 		"attacked": "어어",
 		"defeated": "아이고난이네 그냥",
 		"introduction": "안녕하세요",
 		
-		"neutralHello": "뭐 별다른 거라도?",
+		"neutralHello": "아 코딩하기 귀찮다",
 		"neutralLetsHearIt": "들어볼게요",
 		"neutralNo": "사양하겠습니다",
 		"neutralYes": "ㄱㄱ",
@@ -203,17 +203,16 @@
 		"hateNo": "반대하겠습니다",
 		"hateYes": "네.",
 		
-		"afterPeace": "새로운 전환점이군요",
+		"afterPeace": "평협 ㅈㅇㄱ",
 		"tradeRequest": "거래ㄱㄱ",
 		"outerColor": [255,255,255],
 		"innerColor": [0,0,0],
 		"uniqueName": "알제사무소",
 		"uniques": [
-			"[+30]% [Science] <while researching [techFilter]>
+			"[+30]% [Science] <while researching [techFilter]>"
 			
 		],
 		"cities": ["엣지", "월마리아", "북아몬드폴리스", "몬드님왜코딩안해요tq"],
 		"spyNames": ["Kaelen","Rivor","Seltra","Daven","Lyric","Corven","Veyra","Talin","Marvek","Zyra","Orin","Kyler","Sereth","Jorin","Velric","Alaric","Nyven","Cairos","Tavren","Erynd","Liora","Soren","Draven","Korra","Rilian","Veylin","Darius","Zaren","Myla","Thalen"]
 	}
-]
 ]
