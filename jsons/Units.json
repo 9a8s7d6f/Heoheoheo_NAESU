@@ -455,7 +455,7 @@
 			
 			"[+100]% maintenance costs <when number of [Iron] is between [-99] and [0]>",
 			"[+50]% maintenance costs <when number of [Iron] is between [1] and [2]>",
-			"[+0%]% maintenance costs <when number of [Iron] is between [3] and [4]>",
+			"[+0]% maintenance costs <when number of [Iron] is between [3] and [4]>",
 			"[+100]% Strength <vs [Barbarians] units>",
 			"[+20]% Strength <when defending>"
 		],
