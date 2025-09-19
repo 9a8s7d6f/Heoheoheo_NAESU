@@ -437,34 +437,6 @@
 		"requiredTech": "Metallurgy",
 		"uniques": ["Cannot attack", "Can carry [2] [Aircraft] units"]
 	},
-	{
-		"name": "철골렘",
-		"unitType": "Sword",
-		"uniqueTo": "Eastern Roman Empire",
-		"movement": 2,
-		"strength": 30,
-		"cost": 64,
-		"requiredTech": "Metal Casting",
-		"uniques": [
-			"Consumes [4] [Iron]",
-			"Unable to pillage tiles",
-			"[-50]% Strength <when number of [Iron] is between [-99] and [0]>",
-			"[-30]% Strength <when number of [Iron] is between [1] and [2]>",
-			"[-10]% Strength <when number of [Iron] is between [3] and [4]>",
-			"[+10]% Strength <when number of [Iron] is between [5] and [6]>",
-			
-			"[+100]% maintenance costs <when number of [Iron] is between [-99] and [0]>",
-			"[+50]% maintenance costs <when number of [Iron] is between [1] and [2]>",
-			"[+0]% maintenance costs <when number of [Iron] is between [3] and [4]>",
-			"[+100]% Strength <vs [Barbarians] units>",
-			"[+20]% Strength <when defending>"
-		],
-		"attackSound": "nonmetalhit"
-		"promotions": ["Cover I", "Cover II"],
-		"civilopediaText": [
-			{"text": "강력한 수호 골렘"}
-		]
-	},
 	
 	// 테오도시아나 고유유닛
 	
