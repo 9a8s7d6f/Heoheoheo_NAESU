@@ -28,7 +28,7 @@
 			{"text": "모낙호는 언제나 탐험을 하고싶어한다. 그치만 몸이 물몸이여서 어딜가든 뒤져버린다."}
 		],
 		"movement": 3,
-		"strength": 8,
+		"strength": 4,
 		"cost": 120,
 		"requiredTech": "The Wheel",
 		"uniques": [
