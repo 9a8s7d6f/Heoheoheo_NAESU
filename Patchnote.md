@@ -2,7 +2,7 @@
 
 ## 0.0.1
 
-24.08.2025
+24.08.25
 Alpha-Null
 Creating Eastern Roman Empire;ERE
 
