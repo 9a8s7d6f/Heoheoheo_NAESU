@@ -202,7 +202,8 @@
 	},
 	{
 		"name": "섬록암 피라미드",
-		"uniqueTo": "Amphitheater",
+		"uniqueTo": "Eastern Roman Empire",
+		"replaces": "Amphitheater",
 		"culture": 4,
 		"percentStatBonus": {"faith": 20},
 		"percentStatBonus": {"culture": 10},
