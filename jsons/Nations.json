@@ -51,7 +51,7 @@
 			"Nullifies [Science] [in all cities] <when below [-50] [Happiness]>",
 			"Gain a free [Heoheoheodevil] [in all cities] <when number of [[World Wonder] Buildings] is more than [4]>"
 		],
-		"cities": ["Constantinopolis","Patatapolis","Kriopolis","Adrianopolis","Third City","Pyeongyang","Megalopolis","Edirne","The Edge","Neu-Constantinopolis","Nicaeanopolis"],
+		"cities": ["Constantinopolis","Patatapolis","Kriopolis","Adrianopolis","Third City","북부 마을", "Pyeongyang","Megalopolis","Edirne","Neu-Constantinopolis","Nicaeanopolis"],
 		"spyNames": ["Kaelen","Rivor","Seltra","Daven","Lyric","Corven","Veyra","Talin","Marvek","Zyra","Orin","Kyler","Sereth","Jorin","Velric","Alaric","Nyven","Cairos","Tavren","Erynd","Liora","Soren","Draven","Korra","Rilian","Veylin","Darius","Zaren","Myla","Thalen"],
 		"civilopediaText": [
 			{ "text": "abcde" },
@@ -116,7 +116,7 @@
 			"[-20]% Culture cost of natural border growth [in all cities]",
 			"Gain a free [항전] [in capital] <upon being declared war on by [Major] Civilizations>"
 		],
-		"cities": ["Theodosiana","Mali","Monakhoburg"],
+		"cities": ["Theodosiana","Mali","Monakhoburg", "데제흐 블뢰", "노티아폴리스"],
 		"spyNames": ["Kaelen","Rivor","Seltra","Daven","Lyric","Corven","Veyra","Talin","Marvek","Zyra","Orin","Kyler","Sereth","Jorin","Velric","Alaric","Nyven","Cairos","Tavren","Erynd","Liora","Soren","Draven","Korra","Rilian","Veylin","Darius","Zaren","Myla","Thalen"]
 	},
 
@@ -209,10 +209,10 @@
 		"innerColor": [0,0,0],
 		"uniqueName": "알제사무소",
 		"uniques": [
-			"[+30]% [Science] <while researching [techFilter]>"
+			"[+30]% [Science] <while researching [Writing]>"
 			
 		],
-		"cities": ["엣지", "월마리아", "북아몬드폴리스", "몬드님왜코딩안해요tq"],
+		"cities": ["The Edge", "월마리아", "북아몬드폴리스", "몬드님왜코딩안해요tq"],
 		"spyNames": ["Kaelen","Rivor","Seltra","Daven","Lyric","Corven","Veyra","Talin","Marvek","Zyra","Orin","Kyler","Sereth","Jorin","Velric","Alaric","Nyven","Cairos","Tavren","Erynd","Liora","Soren","Draven","Korra","Rilian","Veylin","Darius","Zaren","Myla","Thalen"]
 	}
 ]
