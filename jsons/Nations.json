@@ -29,8 +29,9 @@
 		"declaringFriendship": "동맹ㄱㄱ",
 		"denounced": "나가~"
 
-		"outerColor": [6,75,8],
-		"innerColor": [133,49,154],
+		//흰금 [255,255,255]에 [245, 210, 0]
+		"outerColor": [183,77,255],
+		"innerColor": [5, 134, 5],
 		"uniqueName": "birthplace of civilization",
 		"uniques": [
 			"[+1 Gold, +1 Production] [in all cities]",
@@ -224,7 +225,8 @@
 			"[+30]% [Science] <while researching [Telecommunications]>",
 			"[+30]% [Science] <while researching [Particle Physics]>",
 
-			
+			"[+1 Production] from every [Production]",
+			"[+1 Happiness] from every [Science]"
 			
 		],
 		"cities": ["The Edge", "월마리아", "북아몬드폴리스", "몬드님왜코딩안해요tq"],
