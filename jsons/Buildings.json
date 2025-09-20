@@ -86,7 +86,7 @@
         "uniques": [
             "[+1 Production] from [Mine] tiles [in this city]",
             "[+2 Science] from [Marble] tiles [in this city]",
-            "[1] Happiness from each type of luxury resource"
+            "[+1] Happiness from each type of luxury resource"
 		]
 	},
 	{
