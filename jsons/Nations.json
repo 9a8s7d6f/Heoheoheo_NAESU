@@ -30,7 +30,7 @@
 		"denounced": "나가~"
 
 		//흰금 [255,255,255]에 [245, 210, 0]
-		"outerColor": [183,77,255],
+		"outerColor": [92,52,121],
 		"innerColor": [5, 134, 5],
 		"uniqueName": "birthplace of civilization",
 		"uniques": [
@@ -226,7 +226,8 @@
 			"[+30]% [Science] <while researching [Particle Physics]>",
 
 			"[+1 Production] from every [Production]",
-			"[+1 Happiness] from every [Science]"
+			"[+1 Happiness] from every [Science]",
+			"[+20 Gold] <for every [Era number]>"
 			
 		],
 		"cities": ["The Edge", "월마리아", "북아몬드폴리스", "몬드님왜코딩안해요tq"],
