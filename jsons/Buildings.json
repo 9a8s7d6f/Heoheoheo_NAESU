@@ -211,6 +211,7 @@
 		"maintenance": 2,
 		"hurryCostModifier": 10,
 		"requiredTech": "Theology"
+	}
 	
 	// 테오도시아나 고유 건물
 	{
