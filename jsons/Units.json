@@ -298,7 +298,8 @@
 		"promotions": ["Landing Party"],
 		"uniques": [
 			"[+20]% Strength <when fighting in [Coast] tiles>",
-			"Cannot enter ocean tiles"
+			"Cannot enter ocean tiles",
+			"Unavailable <if [RekMOD] is enabled>"
 			],
 		"civilopediaText": [
 			{"text": "어푸어푸"}
@@ -320,12 +321,42 @@
 		"uniques": [
 			"Cannot enter ocean tiles",
 			"Never appears as a Barbarian unit",
-			"[+20]% Strength <when fighting in [Coast] tiles>"
+			"[+20]% Strength <when fighting in [Coast] tiles>",
+			"Unavailable <if [RekMOD] is enabled>"
 			],
 		"civilopediaText": [
 			{"text": "노젓기"}
 		],
 	},
+	{
+        "name": "철골렘",
+        "unitType": "Sword",
+        "uniqueTo": "Eastern Roman Empire",
+        "movement": 2,
+        "strength": 30,
+        "cost": 64,
+        "requiredTech": "Metal Casting",
+        "uniques": [
+            "Consumes [4] [Iron]",
+            "Unable to pillage tiles",
+            "[-50]% Strength <when number of [Iron] is between [-99] and [0]>",
+            "[-30]% Strength <when number of [Iron] is between [1] and [2]>",
+            "[-10]% Strength <when number of [Iron] is between [3] and [4]>",
+            "[+10]% Strength <when number of [Iron] is between [5] and [6]>",
+
+            "[+100]% maintenance costs <when number of [Iron] is between [-99] and [0]>",
+            "[+50]% maintenance costs <when number of [Iron] is between [1] and [2]>",
+            "[+0]% maintenance costs <when number of [Iron] is more than [2]>",
+			
+            "[+100]% Strength <vs [Barbarians] units>",
+            "[+20]% Strength <when defending>"
+        ],
+        "attackSound": "nonmetalhit"
+        "promotions": ["Cover I", "Cover II"],
+        "civilopediaText": [
+            {"text": "강력한 수호 골렘"}
+        ]
+    },
 	//Ranged Water
 	{
 		"name": "허허허53식 화차",
