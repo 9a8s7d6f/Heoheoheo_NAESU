@@ -9,6 +9,7 @@
 		"science": 4,
 		"specialistSlots": {"Artist": 2},
 		"requiredTech": "Construction",
+		"specialistSlots": {"Worker of worker": 1},
 		"uniques": [
 			"Limited to [1] per Civilization",
 			"[-10]% production cost <after discovering [Bronze Working]>",
@@ -94,6 +95,7 @@
 		"uniqueTo": "Eastern Roman Empire",
 		"cost": 10,
 		"production": 1,
+		"specialistSlots": {"Worker of worker": 1},
 		"requiredTech": "Agriculture",
 		"uniques": ["[+4 Production, +2 Food] [in this city] <in cities with less than [4] [Population]>"],
 		"civilopediaText": [
@@ -198,6 +200,17 @@
 		"gold": 2,
 		"requiredTech": "Machinery"
 	},
+	{
+		"name": "섬록암 피라미드",
+		"uniqueTo": "Amphitheater",
+		"culture": 4,
+		"percentStatBonus": {"faith": 20},
+		"percentStatBonus": {"culture": 10},
+		"specialistSlots": {"Artist": 1},
+		"requiredBuilding": "Cross",
+		"maintenance": 2,
+		"hurryCostModifier": 10,
+		"requiredTech": "Theology"
 	
 	// 테오도시아나 고유 건물
 	{
@@ -223,6 +236,7 @@
 		"cost": 90,
 		"hurryCostModifier": 25,
 		"maintenance": 1,
+		"specialistSlots": {"Worker of worker": 1},
 		"requiredBuilding": "Granary",
 		"requiredTech": "Calendar",
 		"food": 2,
@@ -298,6 +312,7 @@
 		"production": 3,
 		"percentStatBonus": {"production": 10},
 		"specialistSlots": {"Engineer": 1},
+		"specialistSlots": {"Worker of worker": 1},
 		"uniques": [
 			"Limited to [1] per Civilization",
 			"[-66]% maintenance on road & railroads",
@@ -331,6 +346,7 @@
 		"production": 2,
 		"specialistSlots": {"Engineer": 1},
 		"hurryCostModifier": 25,
+		"specialistSlots": {"Worker of worker": 1},
 		"maintenance": 2,
 		"uniques": [
 			"Must not be on [Coastal]",
