@@ -128,7 +128,7 @@
 		]
 	},
 	{
-		"name": "방패병",
+		"name": "Shieldman",
 		"unitType": "Shilder",
 		"uniqueTo": "Eastern Roman Empire",
 		"movement": 2,
