@@ -242,8 +242,8 @@
 		"uniqueTo": "Eastern Roman Empire",
 		"movement": 2,
 		"strength": 7,
-		"rangedStrength": 9,
-		"range": 2,
+		"rangedStrength": 5,
+		"range": 1,
 		"cost": 80,
 		"requiredTech": "Horseback Riding",
 		"requiredResource": "Horses",
@@ -251,6 +251,8 @@
 		"upgradesTo": "가스트 활공병",
 		"attackSound": "arrow"
 		"uniques": [
+			"[+10]% Strength <vs [Melee] units> <when attacking>",
+			"[+50]% Strength <vs [Melee] units> <when defending>",
 			"No defensive terrain bonus",
 			"All tiles cost 1 movement",
 			"Ignores Zone of Control",
@@ -268,13 +270,14 @@
 		"movement": 3,
 		"strength": 20,
 		"rangedStrength": 9,
-		"range": 2,
+		"range": 1,
 		"cost": 125,
 		"requiredTech": "Chivalry",
 		"requiredResource": "Horses",
 		"attackSound": "arrow"
 		"uniques": [
-			"[+20]% Strength <vs [Melee] units>",
+			"[+10]% Strength <vs [Melee] units> <when attacking>",
+			"[+50]% Strength <vs [Melee] units> <when defending>",
 			"No defensive terrain bonus",
 			"All tiles cost 1 movement",
 			"Ignores Zone of Control",
