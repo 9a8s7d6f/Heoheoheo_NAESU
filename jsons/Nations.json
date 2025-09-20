@@ -29,8 +29,8 @@
 		"declaringFriendship": "동맹ㄱㄱ",
 		"denounced": "나가~"
 
-		"outerColor": [255,255,255],
-		"innerColor": [152, 145, 0],
+		"outerColor": [6,75,8],
+		"innerColor": [133,49,154],
 		"uniqueName": "birthplace of civilization",
 		"uniques": [
 			"[+1 Gold, +1 Production] [in all cities]",
@@ -209,7 +209,22 @@
 		"innerColor": [0,0,0],
 		"uniqueName": "알제사무소",
 		"uniques": [
-			"[+30]% [Science] <while researching [Writing]>"
+			"[+30]% [Science] <while researching [Writing]>",
+			"[+30]% [Science] <while researching [Mathematics]>",
+			"[+30]% [Science] <while researching [Engineering]>",
+			"[+30]% [Science] <while researching [Philosophy]>",
+			"[+30]% [Science] <while researching [Physics]>",
+			"[+30]% [Science] <while researching [Astronomy]>",
+			"[+30]% [Science] <while researching [Chemistry]>",
+			"[+30]% [Science] <while researching [Economics]>",
+			"[+30]% [Science] <while researching [Scientific Theory]>",
+			"[+30]% [Science] <while researching [Biology]>",
+			"[+30]% [Science] <while researching [Atomic Theory]>",
+			"[+30]% [Science] <while researching [Computers]>",
+			"[+30]% [Science] <while researching [Telecommunications]>",
+			"[+30]% [Science] <while researching [Particle Physics]>",
+
+			
 			
 		],
 		"cities": ["The Edge", "월마리아", "북아몬드폴리스", "몬드님왜코딩안해요tq"],
