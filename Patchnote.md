@@ -73,6 +73,7 @@ Adding teodosianan monument for TFS
 Reworking Nations
 Fixing bugs
 
+
 ## 0.1.2
 
 18.09.25
@@ -80,7 +81,19 @@ Creating TileImprovements and UnitTypes
 Reworking Ghasts
 Adding more units
 
+
 ## 0.1.3
 
 19.09.25
 Creating Patchnote
+
+
+## 0.1.4
+
+20.09.25
+Adding buildings for ERE
+Adding Iron Golem
+Reworking units
+Adding more city names
+Adding some units and Nations icon images by DIAMOND
+Step I Image & gameplay testing completed
