@@ -188,6 +188,16 @@
 			"Reveal up to [all] [All] within a [32] tile radius <after discovering [Navigation]>"
 		]
 	},
+	{
+		"name": "몬스터 타워",
+		"uniqueTo": "Eastern Roman Empire",
+		"maintenance": 1,
+		"cost": 240,
+		"hurryCostModifier": 50,
+		"production": 2,
+		"gold": 2,
+		"requiredTech": "Machinery"
+	},
 	
 	// 테오도시아나 고유 건물
 	{
