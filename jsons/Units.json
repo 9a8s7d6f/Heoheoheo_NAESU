@@ -202,7 +202,7 @@
 	},
 	{
 		"name": "Toxophilite",
-		"unitType": "Naesu Archery",
+		"unitType": "Naesu Bowman",
 		"uniqueTo": "Eastern Roman Empire",
 		"replaces": "Archer",
 		"movement": 2,
@@ -220,7 +220,7 @@
 	},
 	{
 		"name": "Arbalist",
-		"unitType": "Naesu Archery",
+		"unitType": "Naesu Crossbowman",
 		"uniqueTo": "Eastern Roman Empire",
 		"replaces": "Crossbowman",
 		"movement": 2,
