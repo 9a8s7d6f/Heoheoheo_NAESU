@@ -11,10 +11,9 @@
   	{
       "name": "결사적 방어",
       "uniques": [
-			"[-10]% Strength <when attacking>",
-        	"[+15]% Strength <when defending>",
-        	"[+10]% Strength <when fighting in [Friendly Land] tiles>",
-        	"[+10]% Strength <when fighting in [your] tiles>",
+        	"[+15]% Strength <when fighting in [Friendly Land] tiles>",
+        	"[+30]% Strength <when fighting in [your] tiles>",
+			"[+15]% Strength <when fighting in [your] tiles> <when defending>",
         	"All healing effects doubled <in [your] tiles> <when below [15] HP>",
 			"[+1] Movement <in [your] tiles>"
         ]
@@ -303,25 +302,49 @@
 	// 내수 비화약 방어
 	{
 		"name": "보호 I",
-		"uniques": ["[+15]% Strength <when defending>", "[-90]% weight to this choice for AI decisions"],
+		"uniques": ["[+10]% Strength <when defending>", "[-90]% weight to this choice for AI decisions"],
 		"unitTypes": ["Naesu Sword","Naesu Bowman","Naesu Crossbowman","Naesu Mounted"],
-        "column": ,
+        "column": 37,
         "row": 1
 	},
 	{
 		"name": "보호 II",
 		"prerequisites": ["보호 I"],
-		"uniques": ["[+15]% Strength <when defending>"],
+		"uniques": ["[+10]% Strength <when defending>"],
 		"unitTypes": ["Naesu Sword","Naesu Bowman","Naesu Crossbowman","Naesu Mounted"],
-        "column": ,
+        "column": 37,
         "row": 2
 	},
 	{
 		"name": "보호 III",
 		"prerequisites": ["보호 II"],
-		"uniques": ["[+15]% Strength <when defending>"],
+		"uniques": ["[+10]% Strength <when defending>"],
 		"unitTypes": ["Naesu Sword","Naesu Bowman","Naesu Crossbowman","Naesu Mounted"],
-        "column": ,
+        "column": 37,
+        "row": 3
+	},
+	{
+		"name": "발사체로부터 보호 I",
+		"prerequisites": ["보호 I"],
+		"uniques": ["[+33]% Strength <vs [Ranged] units> <when defending>"],
+		"unitTypes": ["Naesu Sword","Naesu Mounted"],
+        "column": 38,
+        "row": 1
+	},
+	{
+		"name": "발사체로부터 보호 II",
+		"prerequisites": ["발사체로부터 보호 I"],
+		"uniques": ["[+33]% Strength <vs [Ranged] units> <when defending>"],
+		"unitTypes": ["Naesu Sword","Naesu Mounted"],
+        "column": 38,
+        "row": 2
+	},
+	{
+		"name": "발사체로부터 보호 III",
+		"prerequisites": ["발사체로부터 보호 II"],
+		"uniques": ["[+33]% Strength <vs [Ranged] units> <when defending>"],
+		"unitTypes": ["Naesu Sword","Naesu Mounted"],
+        "column": 38,
         "row": 3
 	},
 	{
@@ -329,7 +352,7 @@
 		"prerequisites": ["보호 I"],
 		"uniques": ["[+33]% Strength <vs [Mounted] units>", "[+33]% Strength <vs [Naesu Mounted] units>", "[-50]% weight to this choice for AI decisions"],
 		"unitTypes": ["Naesu Sword","Naesu Mounted"],
-        "column": ,
+        "column": 39,
         "row": 1
 	},
 	{
@@ -337,7 +360,7 @@
 		"prerequisites": ["가시 I"],
 		"uniques": ["[+33]% Strength <vs [Mounted] units>", "[+33]% Strength <vs [Naesu Mounted] units>"],
 		"unitTypes": ["Naesu Sword","Naesu Mounted"],
-        "column": ,
+        "column": 39,
         "row": 2
 	},
 	{
@@ -345,7 +368,38 @@
 		"prerequisites": ["보호 I"],
 		"uniques": ["Eliminates combat penalty for attacking over a river", "Eliminates combat penalty for attacking across a coast"],
 		"unitTypes": ["Naesu Sword"],
-        "column": ,
+        "column": 39,
+        "row": 3
+	},
+	//해상 근접
+	{
+		"name": "충각 I",
+		"uniques": ["[+15]% Strength <vs [Water] units>"],
+		"unitTypes": ["Naesu Melee Water"],
+        "column": 40,
+        "row": 1
+	},
+	{
+		"name": "충각 II",
+		"prerequisites": ["충각 I"],
+		"uniques": ["[+15]% Strength <vs [Water] units>"],
+		"unitTypes": ["Naesu Melee Water"],
+        "column": 40,
+        "row": 2
+	},
+	{
+		"name": "충각 III",
+		"prerequisites": ["충각 II"],
+		"uniques": ["[+15]% Strength <vs [Water] units>"],
+		"unitTypes": ["Naesu Melee Water"],
+        "column": 40,
+        "row": 2
+	},
+	{
+		"name": "해안 습격",
+		"uniques": ["Eliminates combat penalty for attacking across a coast"],
+		"unitTypes": ["Naesu Melee Water"],
+        "column": 41,
         "row": 1
 	},
 	//해상 원거리
@@ -353,7 +407,7 @@
 		"name": "대형 I",
 		"uniques": ["[+15]% Strength <vs [Water] units>"],
 		"unitTypes": ["Naesu Ranged Water"],
-        "column": ,
+        "column": 42,
         "row": 1
 	},
 	{
@@ -361,7 +415,7 @@
 		"prerequisites": ["대형 I"],
 		"uniques": ["[+15]% Strength <vs [Water] units>"],
 		"unitTypes": ["Naesu Ranged Water"],
-        "column": ,
+        "column": 42,
         "row": 2
 	},
 	{
@@ -369,14 +423,14 @@
 		"prerequisites": ["대형 II"],
 		"uniques": ["[+15]% Strength <vs [Water] units>"],
 		"unitTypes": ["Naesu Ranged Water"],
-        "column": ,
+        "column": 42,
         "row": 3
 	},
 	{
 		"name": "포격 I",
 		"uniques": ["[+15]% Strength <vs [Land] units>"],
 		"unitTypes": ["Naesu Ranged Water"],
-        "column": ,
+        "column": 43,
         "row": 1
 	},
 	{
@@ -384,7 +438,7 @@
 		"prerequisites": ["포격 I"],
 		"uniques": ["[+15]% Strength <vs [Land] units>"],
 		"unitTypes": ["Naesu Ranged Water"],
-        "column": ,
+        "column": 43,
         "row": 1
 	},
 	{
@@ -392,7 +446,24 @@
 		"prerequisites": ["포격 II"],
 		"uniques": ["[+15]% Strength <vs [Land] units>"],
 		"unitTypes": ["Naesu Ranged Water"],
-        "column": ,
+        "column": 43,
+        "row": 1
+	},
+	//내수 한정
+	{
+		"name": "무한",
+		"prerequisites": ["힘 II"],
+		"uniques": ["[-100]% maintenance costs"],
+		"unitTypes": ["Naesu Bowman"],
+        "column": 44,
+        "row": 1
+	},
+	{
+		"name": "관통",
+		"prerequisites": ["힘 II"],
+		"uniques": ["[+50]% Strength <vs [Shilder] units> <when attacking>"],
+		"unitTypes": ["Naesu Crossbowman"],
+        "column": 45,
         "row": 1
 	},
 	//내수 공통
@@ -400,7 +471,7 @@
 		"name": "훈련 I",
 		"uniques": ["[+50]% XP gained from combat"],
 		"unitTypes": ["Naesu Sword","Naesu Mounted","Naesu Gunpowder","Naesu Ranged Gunpowder","Naesu Bowman","Naesu Crossbowman","Naesu Armored","Naesu Siege","Naesu Melee Water","Naesu Ranged Water","Blimp","Skycraft","Shilder"],
-        "column": ,
+        "column": 46,
         "row": 1
 	},
 	{
@@ -408,7 +479,7 @@
 		"prerequisites": ["훈련 I"],
 		"uniques": ["[+50]% XP gained from combat"],
 		"unitTypes": ["Naesu Sword","Naesu Mounted","Naesu Gunpowder","Naesu Ranged Gunpowder","Naesu Bowman","Naesu Crossbowman","Naesu Armored","Naesu Siege","Naesu Melee Water","Naesu Ranged Water","Blimp","Skycraft","Shilder"],
-        "column": ,
+        "column": 46,
         "row": 2
 	},
 	{
@@ -416,7 +487,7 @@
 		"prerequisites": ["훈련 II"],
 		"uniques": ["[+50]% XP gained from combat"],
 		"unitTypes": ["Naesu Sword","Naesu Mounted","Naesu Gunpowder","Naesu Ranged Gunpowder","Naesu Bowman","Naesu Crossbowman","Naesu Armored","Naesu Siege","Naesu Melee Water","Naesu Ranged Water","Blimp","Skycraft","Shilder"],
-        "column": ,
+        "column": 46,
         "row": 3
 	}
 ]
