@@ -61,7 +61,7 @@
 	},
 	{
 		"name": "Stone Sword Warrior",
-		"unitType": "Sword",
+		"unitType": "Naesu Sword",
 		"uniqueTo": "Eastern Roman Empire",
 		"movement": 2,
 		"strength": 9,
@@ -78,7 +78,7 @@
 	},
 	{
 		"name": "Iron Swordsman",
-		"unitType": "Sword",
+		"unitType": "Naesu Sword",
 		"uniqueTo": "Eastern Roman Empire",
 		"replaces": "Swordsman",
 		"movement": 2,
@@ -96,7 +96,7 @@
 	},
 	{
 		"name": "Diamond Swordsman",
-		"unitType": "Sword",
+		"unitType": "Naesu Sword",
 		"uniqueTo": "Eastern Roman Empire",
 		"replaces": "Longswordsman",
 		"movement": 2,
@@ -114,7 +114,7 @@
 	},
 	{
 		"name": "Netherite Swordsman",
-		"unitType": "Sword",
+		"unitType": "Naesu Sword",
 		"uniqueTo": "Eastern Roman Empire",
 		"movement": 2,
 		"strength": 25,
@@ -162,7 +162,7 @@
 	},
 	{
 		"name": "도끼병",
-		"unitType": "Sword",
+		"unitType": "Naesu Sword",
 		"uniqueTo": "Eastern Roman Empire",
 		"replaces": "Spearman",
 		"movement": 2,
@@ -182,7 +182,7 @@
 	},
 	{
 		"name": "다이아몬드 도끼병",
-		"unitType": "Sword",
+		"unitType": "Naesu Sword",
 		"uniqueTo": "Eastern Roman Empire",
 		"replaces": "Pikeman",
 		"movement": 2,
@@ -202,7 +202,7 @@
 	},
 	{
 		"name": "Toxophilite",
-		"unitType": "Archery",
+		"unitType": "Naesu Archery",
 		"uniqueTo": "Eastern Roman Empire",
 		"replaces": "Archer",
 		"movement": 2,
@@ -220,7 +220,7 @@
 	},
 	{
 		"name": "Arbalist",
-		"unitType": "Archery",
+		"unitType": "Naesu Archery",
 		"uniqueTo": "Eastern Roman Empire",
 		"replaces": "Crossbowman",
 		"movement": 2,
@@ -290,7 +290,7 @@
 	},
 	{
 		"name": "수영병",
-		"unitType": "Melee Water",
+		"unitType": "Naesu Melee Water",
 		"uniqueTo": "Eastern Roman Empire",
 		"movement": 1,
 		"strength": 5,
@@ -310,7 +310,7 @@
 	},
 	{
 		"name": "보트병",
-		"unitType": "Melee Water",
+		"unitType": "Naesu Melee Water",
 		"uniqueTo": "Eastern Roman Empire",
 		"replaces": "Trireme",
 		"movement": 3,
@@ -363,7 +363,7 @@
 	//Ranged Water
 	{
 		"name": "허허허53식 화차",
-		"unitType": "Siege",
+		"unitType": "Naesu Siege",
 		"uniqueTo": "Eastern Roman Empire",
 		"replaces": "Catapult",
 		"movement": 2,
@@ -388,7 +388,7 @@
 	},
 	{
 		"name": "모나코53식 대포",
-		"unitType": "Siege",
+		"unitType": "Naesu Siege",
 		"uniqueTo": "Eastern Roman Empire",
 		"replaces": "Trebuchet",
 		"movement": 2,
