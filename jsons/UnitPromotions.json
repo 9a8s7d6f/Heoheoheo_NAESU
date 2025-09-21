@@ -210,7 +210,7 @@
 		"uniques": ["[+15]% Strength <when fighting in [Rough terrain] tiles>"],
 		"unitTypes": ["Naesu Sword","Naesu Mounted","Naesu Gunpowder","Naesu Armored"],
         "column": 31,
-        "row": 2
+        "row": 3
 	},
 	{
 		"name": "돌격",
@@ -393,7 +393,7 @@
 		"uniques": ["[+15]% Strength <vs [Water] units>"],
 		"unitTypes": ["Naesu Melee Water"],
         "column": 40,
-        "row": 2
+        "row": 3
 	},
 	{
 		"name": "해안 습격",
@@ -439,7 +439,7 @@
 		"uniques": ["[+15]% Strength <vs [Land] units>"],
 		"unitTypes": ["Naesu Ranged Water"],
         "column": 43,
-        "row": 1
+        "row": 2
 	},
 	{
 		"name": "포격 III",
@@ -447,7 +447,7 @@
 		"uniques": ["[+15]% Strength <vs [Land] units>"],
 		"unitTypes": ["Naesu Ranged Water"],
         "column": 43,
-        "row": 1
+        "row": 3
 	},
 	//내수 한정
 	{
