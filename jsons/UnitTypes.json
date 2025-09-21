@@ -4,7 +4,11 @@
 		"movementType": "Land"
 	},
 	{
-		"name": "Naesu Archery",
+		"name": "Naesu Bowman",
+		"movementType": "Land"
+	},
+	{
+		"name": "Naesu Crossbowman",
 		"movementType": "Land"
 	},
 	{
