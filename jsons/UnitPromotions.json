@@ -238,7 +238,7 @@
 	},
 	{
 		"name": "산림 방화",
-		"prerequisites": ["날카로움 III, 밀치기 III"],
+		"prerequisites": ["날카로움 III", "밀치기 III"],
 		"uniques": ["Double movement in [Forest]","Double movement in [Jungle]"],
 		"unitTypes": ["Naesu Sword","Naesu Mounted","Naesu Gunpowder"],
         "column": 32,
