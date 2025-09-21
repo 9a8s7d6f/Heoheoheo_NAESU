@@ -295,11 +295,11 @@
 		]
 	},
 	{
-		"name": "고정식 야포",
+		"name": "유스티니아누스 야포",
 		"uniqueTo": "Theodosiana Free State",
 		"cost": 100,
 		"requiredTech": "Machinery",
-		"cityStrength": 10,
+		"cityStrength": 15,
 		"hurryCostModifier": -25,
 		"uniques": ["Destroyed when the city is captured", "[+10]% Strength for cities <with a garrison>"]
 	},
