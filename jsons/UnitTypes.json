@@ -1,7 +1,39 @@
 [
 	{
-		"name": "Naesu",
+		"name": "Naesu Sword",
 		"movementType": "Land"
+	},
+	{
+		"name": "Naesu Archery",
+		"movementType": "Land"
+	},
+	{
+		"name": "Naesu Gunpowder",
+		"movementType": "Land"
+	},
+	{
+		"name": "Naesu Ranged Gunpowder",
+		"movementType": "Land"
+	},
+	{
+		"name": "Naesu Armored",
+		"movementType": "Land"
+	},
+	{
+		"name": "Naesu Siege",
+		"movementType": "Land"
+	},
+	{
+		"name": "Naesu Mounted",
+		"movementType": "Land"
+	},
+	{
+		"name": "Naesu Melee Water",
+        "movementType": "Water"
+	},
+	{
+		"name": "Naesu Ranged Water",
+        "movementType": "Water"
 	},
 	{
 		"name": "Blimp",
