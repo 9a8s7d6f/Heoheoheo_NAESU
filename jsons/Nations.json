@@ -53,7 +53,7 @@
 			"Nullifies [Science] [in all cities] <when below [-50] [Happiness]>",
 			"Gain a free [Heoheoheodevil] [in all cities] <when number of [[World Wonder] Buildings] is more than [4]>"
 		],
-		"cities": ["Constantinopolis","Patatapolis","Kriopolis","Adrianopolis","Third City","북부 마을", "Pyeongyang","Megalopolis","Edirne","Neu-Constantinopolis","Nicaeanopolis"],
+		"cities": ["Constantinopolis","Patatapolis","Kriopolis","Adrianopolis","Third City","북부 마을", "Pyeongyang","Megalopolis","Edirne","Nicaeanopolis"],
 		"spyNames": ["Kaelen","Rivor","Seltra","Daven","Lyric","Corven","Veyra","Talin","Marvek","Zyra","Orin","Kyler","Sereth","Jorin","Velric","Alaric","Nyven","Cairos","Tavren","Erynd","Liora","Soren","Draven","Korra","Rilian","Veylin","Darius","Zaren","Myla","Thalen"],
 		"civilopediaText": [
 			{ "text": "abcde" },
@@ -118,9 +118,9 @@
 			"[-20]% Culture cost of natural border growth [in all cities]",
 			"[-90]% unhappiness from the number of cities",
 			"[-20]% Unhappiness from [Population] [in all cities]",
-			"[+1]% Strength <for every [floor( ( [Units] / 2 ) )]>"
+			"[+1]% Strength <for every [floor( ( [Units] / 4 ) )]>"
 		],
-		"cities": ["Theodosiana","Mali","Monakhoburg", "Désert Bleu", "Notiapolis", "1. Monakhopolis", "2. Monakhopolis"],
+		"cities": ["Theodosiana","Mali","Monakhoburg", "Désert Bleu", "Notiapolis", "1. Monakhopolis", "2. Monakhopolis", "Neu-Constantinopolis", "Neu-Patatapolis", "Neu-Patatapolis", "Augustia", "Neu-Amondpolis"],
 		"spyNames": ["Kaelen","Rivor","Seltra","Daven","Lyric","Corven","Veyra","Talin","Marvek","Zyra","Orin","Kyler","Sereth","Jorin","Velric","Alaric","Nyven","Cairos","Tavren","Erynd","Liora","Soren","Draven","Korra","Rilian","Veylin","Darius","Zaren","Myla","Thalen"]
 	},
 
@@ -179,7 +179,7 @@
 			"[-20]% spy effectiveness [in all cities]",
 			"May buy items in puppet cities"
 		],
-		"cities": ["파타타폴리스","신 모비딕폴리스","모비딕 3시티","모비딕 4시티","모비딕 5시티","모비딕 6시티","모비딕 7시티","모비딕 8시티"],
+		"cities": ["파타타폴리스","신 모비딕폴리스","모비딕 3시티","모비딕 4시티","모비딕 5시티","모비딕 6시티","모비딕 7시티","모비딕 8시티","모비딕 9시티","모비딕 10시티","모비딕 11시티","모비딕 12시티"],
 		"spyNames": ["Kaelen","Rivor","Seltra","Daven","Lyric","Corven","Veyra","Talin","Marvek","Zyra","Orin","Kyler","Sereth","Jorin","Velric","Alaric","Nyven","Cairos","Tavren","Erynd","Liora","Soren","Draven","Korra","Rilian","Veylin","Darius","Zaren","Myla","Thalen"]
 	},
 	{
