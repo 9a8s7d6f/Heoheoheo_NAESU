@@ -468,7 +468,7 @@
 		"civilopediaText": [
 			{"text": "모낙호는 언제나 탐험을 하고싶어한다. 그치만 몸이 물몸이여서 어딜가든 뒤져버린다."}
 		],
-		"movement": 3,
+		"movement": 4,
 		"strength": 15,
 		"hurryCostModifier": 50,
 		"cost": 130,
@@ -479,7 +479,9 @@
 			"[+10]% to Flank Attack bonuses",
 			"[+30]% Strength <when below [30] HP>",
 			"[+1] Movement <when below [60] HP>",
-			"[+1] Movement <when below [30] HP>"
+			"[+1] Movement <when below [30] HP>",
+			"Can pass through impassable tiles",
+			"All tiles cost 1 movement"
 		],
 		"attackSound": "metalhit"
 	},
