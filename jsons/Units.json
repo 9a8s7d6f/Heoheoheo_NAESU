@@ -9,7 +9,6 @@
 			{"text": "그는 매우 게으르고 충성심이 하나도 없는 노동자이지만, 건물 건설 하나만큼은 기깔난다."}
 		],
 		"movement": 3,
-		"promotions": ["Ignore terrain cost"],
 		"uniques": [
 			"Can build [Land] improvements on tiles",
 			"Automation is a primary action",
@@ -480,7 +479,6 @@
 			"[+30]% Strength <when below [30] HP>",
 			"[+1] Movement <when below [60] HP>",
 			"[+1] Movement <when below [30] HP>",
-			"Can pass through impassable tiles",
 			"All tiles cost 1 movement"
 		],
 		"attackSound": "metalhit"
@@ -514,6 +512,22 @@
 
 	// 모비딕폴리스 고유유닛
 
+
+	// 알제사무소
+	{
+		"name": "스파이",
+		"unitType": "Civilian",
+		"uniqueTo": "Alje Office Autonomous Branch",
+		"movement": 2,
+		"promotions": ["Ignore terrain cost"],
+		"cost": 75
+		"uniques": [
+			"Invisible to others",
+			"May enter foreign tiles without open borders",
+			"[1] Sight <when not at war>",
+			"[3] Sight <when at war>"
+		],
+	},
 	//Great Person
 
 	{
