@@ -30,8 +30,9 @@
 		"denounced": "나가~"
 
 		//흰금 [255,255,255]에 [245, 210, 0]
-		"outerColor": [92,52,121],
-		"innerColor": [5, 134, 5],
+		//보초 [92,52,121]에 [5,134,5]
+		"outerColor": [255,255,255],
+		"innerColor": [245,210,0],
 		"uniqueName": "birthplace of civilization",
 		"uniques": [
 			"[+1 Gold, +1 Production] [in all cities]",
