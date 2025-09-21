@@ -47,7 +47,7 @@
 	{
 		"name": "Skycraft",
 		"movementType": "Air",
-        "uniques": ["Aircraft"]
+        "uniques": ["Aircraft", "[-1] Sight", "Can see over obstacles"]
 	},
 	{
 		"name": "Shilder",
