@@ -86,6 +86,7 @@ Adding more units
 
 19.09.25
 Creating Patchnote
+Adding Nation "Alje Office Autonomous Branch";AOB
 
 
 ## 0.1.4
@@ -97,3 +98,11 @@ Reworking units
 Adding more city names
 Adding some units and Nations icon images by DIAMOND
 Step I Image & gameplay testing completed
+
+
+## 0.1.5
+
+21.09.25
+Adding 10 unittypes - Naesu
+Adding 44 unitpromotions - Naesu
+Adding one unit for AOB
