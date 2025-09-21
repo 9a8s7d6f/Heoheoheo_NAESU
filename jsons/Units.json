@@ -45,7 +45,7 @@
 	// 마크
 	{
 		"name": "Wooden Sword Warrior",
-		"unitType": "Sword",
+		"unitType": "Naesu Sword",
 		"replaces": "Warrior",
 		"uniqueTo": "Eastern Roman Empire",
 		"movement": 2,
