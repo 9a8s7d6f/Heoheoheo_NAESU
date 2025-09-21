@@ -1,5 +1,9 @@
 [
 	{
+		"name": "Naesu",
+		"movementType": "Land"
+	},
+	{
 		"name": "Blimp",
 		"movementType": "Land",
 		"uniques": ["Can pass through impassable tiles", "May travel on Water tiles without embarking"]
