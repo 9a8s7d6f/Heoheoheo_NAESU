@@ -372,5 +372,17 @@
 		"requiredBuilding": "Walls",
 		"requiredTech": "Chivalry",
 		"uniques": ["Destroyed when the city is captured", "[non-air] Units adjacent to this city heal [+5] HP per turn when healing"]
+	},
+
+// 알제사무소 고유 건물
+	{
+		"name": "Dolmen",
+		"uniqueTo": "알제사무소국",
+		"replaces": "Monument",
+		"cost": 150,
+		"culture":4,
+		"production": 2,
+		"hurryCostModifier": 25,
+		"maintenance": 1,
+		"uniques": ["Destroyed when the city is captured"]
 	}
-]
