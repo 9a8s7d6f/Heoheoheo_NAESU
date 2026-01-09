@@ -520,7 +520,7 @@
 	{
 		"name": "스파이",
 		"unitType": "Civilian",
-		"uniqueTo": "Alje Office Autonomous Branch",
+		"uniqueTo": "State of Alje Office",
 		"movement": 2,
 		"promotions": ["Ignore terrain cost"],
 		"cost": 75
