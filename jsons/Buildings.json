@@ -379,7 +379,7 @@
 		"name": "Dolmen",
 		"uniqueTo": "알제사무소국",
 		"replaces": "Monument",
-		"cost": 150,
+		"cost": 30,
 		"culture":4,
 		"production": 2,
 		"hurryCostModifier": 25,
