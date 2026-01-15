@@ -3,7 +3,7 @@
 	{
 		"name": "Bulwark",
 		"terrainsCanBeBuiltOn": ["Plains","Grassland","Desert","Hill","Tundra","Snow","Forest","Jungle"],
-    	"uniqueTo": "알제사무소 독립관할지부"
+    	"uniqueTo": "State of Alje Office"
 		"production": 1,
 		"turnsToBuild": 10000,
 		"techRequired": "Engineering",
@@ -20,7 +20,7 @@
 	{
 		"name": "Coastal Fort",
 		"terrainsCanBeBuiltOn": ["Plains","Grassland","Desert","Hill","Tundra","Snow","Forest","Jungle"],
-    	"uniqueTo": "알제사무소 독립관할지부"
+    	"uniqueTo": "State of Alje Office"
 		"turnsToBuild": 8,
 		"techRequired": "Engineering",
 		"uniques": [
@@ -34,7 +34,7 @@
 	{
 		"name": "Wall Maria",
 		"terrainsCanBeBuiltOn": ["Plains","Grassland","Desert","Hill","Tundra","Snow","Forest","Jungle"],
-    	"uniqueTo": "알제사무소 독립관할지부"
+    	"uniqueTo": "State of Alje Office"
 		"turnsToBuild": 5,
 		"techRequired": "Engineering",
 		"uniques": [
