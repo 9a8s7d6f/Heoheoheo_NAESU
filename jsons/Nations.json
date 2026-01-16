@@ -245,7 +245,7 @@
 		"declaringWar": "lah",
 		"attacked": "lah",
 		"defeated": lah",
-		"outerColor": [255, 255, 2555],
+		"outerColor": [255, 255, 255],
 		"innerColor": [62, 50, 168],
 		"cities": ["제3마을"]
 	},
