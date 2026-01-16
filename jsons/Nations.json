@@ -250,7 +250,7 @@
 		"cities": ["제3마을"]
 	},
 	{
-		"name": "복부마을",
+		"name": "북부마을",
 		"adjective": ["북부마을의"],
 		"cityStateType": "Maritime",
 
@@ -283,6 +283,6 @@
 		"defeated": "lah",
 		"outerColor": [255, 255, 255],
 		"innerColor": [235, 26, 47],
-		"cities": ["제3마을"]
+		"cities": ["모낙호폴리스"]
 	}
 ]
