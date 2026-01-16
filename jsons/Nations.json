@@ -235,5 +235,18 @@
 		],
 		"cities": ["나알제폴리스", "엣지", "월마리아", "몬드님왜코딩안해요tq"],
 		"spyNames": ["Kaelen","Rivor","Seltra","Daven","Lyric","Corven","Veyra","Talin","Marvek","Zyra","Orin","Kyler","Sereth","Jorin","Velric","Alaric","Nyven","Cairos","Tavren","Erynd","Liora","Soren","Draven","Korra","Rilian","Veylin","Darius","Zaren","Myla","Thalen"]
-	}
+	},
+	// 도국
+	{
+		"name": "제3마을",
+		"adjective": ["제3마을의"],
+		"cityStateType": "Cultured",
+
+		"declaringWar": "lah",
+		"attacked": "lah",
+		"defeated": lah",
+		"outerColor": [255, 255, 2555],
+		"innerColor": [62, 50, 168],
+		"cities": ["제3마을"]
+	},
 ]
