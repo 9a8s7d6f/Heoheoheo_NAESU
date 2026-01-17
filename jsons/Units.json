@@ -211,7 +211,7 @@
 		"requiredTech": "Archery",
 		"obsoleteTech": "Construction",
 		"upgradesTo": "Composite Bowman",
-		"uniques": ["[3] Range <when stacked with a [Mo bidick] unit>"],
+		"uniques": ["[+1] Range <when stacked with a [Mo bidick] unit>"],
 		"attackSound": "arrow"
 		"civilopediaText": [
 			{"text": "저 는활 을쏠거 에요"}
@@ -230,7 +230,7 @@
 		"upgradesTo": "Gatling Gun",
 		"obsoleteTech": "Industrialization",
 		"attackSound": "crossbow"
-		"uniques": ["[3] Range <when stacked with a [Mo bidick] unit>"],
+		"uniques": ["[+1] Range <when stacked with a [Mo bidick] unit>"],
 		"civilopediaText": [
 			{"text": "저 는석 궁을 쏠거에 요"}
 		]
