@@ -489,5 +489,12 @@
 		"unitTypes": ["Naesu Sword","Naesu Mounted","Naesu Gunpowder","Naesu Ranged Gunpowder","Naesu Bowman","Naesu Crossbowman","Naesu Armored","Naesu Siege","Naesu Melee Water","Naesu Ranged Water","Blimp","Skycraft","Shilder"],
         "column": 46,
         "row": 3
+	},
+	{
+		"name": "언덕 싸움꾼",
+		"uniques": ["[+15]% Strength bonus for [{Military} {Land}] units within [3] tiles <within [2] tiles of a [Hill]>"],
+		"unitTypes": ["Civilian"],
+        "column": 47,
+        "row": 1
 	}
 ]
