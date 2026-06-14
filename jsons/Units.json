@@ -547,6 +547,18 @@
 			"Can build [Water] improvements on tiles",
 			"Automation is a primary action"
 		],
-	}
+	},
+	{
+		"name": "Great Great Commander",
+		"unitType": "Civilian",
+		"cost": 1,
+		"uniques": [
+            "[+10]% Strength bonus for [{Military} {Land}] units within [3] tiles",
+			"Can be earned through combat <for [Land] units>",
+            "Is part of Great Person group [General]",
+			"Uncapturable"
+		],
+		"movement": 2
+	},
 
 ]
